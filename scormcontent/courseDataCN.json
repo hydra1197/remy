@@ -1,0 +1,4331 @@
+{
+  "course": {
+    "id": "eNKXikLLdWhwRSOse9sBHdI6HWL-uxK-",
+    "originalId": null,
+    "author": "auth0|5b3a656445d8a648a1510a8b",
+    "selectedAuthorId": "",
+    "color": "#111010",
+    "navigationMode": "free",
+    "title": "圣雷米专业品牌培训",
+    "sharePassword": "",
+    "description": "<p>探索我们的 100% 法国白兰地：圣雷米！这门详细的课程将帮助您进一步了解塑就圣雷米独特之处的法国起源。</p><p>仅供内部使用</p>",
+    "shareId": "m7ZsOeLBQloIjqYE5GwI3qWtHk1AwwgS",
+    "copyOf": "z0bpBgj01tcYWOL9Q3toL24ootRlOIHe",
+    "order": "1627316643018",
+    "fonts": null,
+    "media": {},
+    "coverImage": {
+      "alpha": 30,
+      "media": {
+        "image": {
+          "key": "rise/courses/eNKXikLLdWhwRSOse9sBHdI6HWL-uxK-/jxL2pQjQ0qgclNYY-MK4_0853.jpg",
+          "type": "image",
+          "crushedKey": "rqgAkNkvhSQlwclF_B0BcVjIOUTZooRSI.jpg",
+          "originalUrl": "MK4_0853.jpg",
+          "useCrushedKey": true
+        }
+      },
+      "displaySidebar": true
+    },
+    "lessons": [
+      {
+        "id": "oZsrmBRYOMhJNooaX9GA6ZKMm9fQQkFK",
+        "originalId": null,
+        "author": "auth0|5b3a656445d8a648a1510a8b",
+        "selectedAuthorId": "auth0|5b3a656445d8a648a1510a8b",
+        "courseId": "eNKXikLLdWhwRSOse9sBHdI6HWL-uxK-",
+        "title": "课前小测验",
+        "description": "<p>在课程开始前，请完成简短的知识测验，以便我们测试您对白兰地的了解情况，下一章节将介绍白兰地知识。回答下一题前，请务必查看正确答案。&nbsp;</p>",
+        "type": "quiz",
+        "icon": "Quiz",
+        "items": [
+          {
+            "id": "ckdg8cb2400043667h2ryovi4",
+            "type": "MULTIPLE_CHOICE",
+            "media": {
+              "image": {
+                "key": "rise/courses/eNKXikLLdWhwRSOse9sBHdI6HWL-uxK-/JN4ftAHmuNVXn0BW-brandy%2520glass.jpg",
+                "type": "image",
+                "crushedKey": "HYfvmGBMUOfMft5h_t6vBZ_Jk5rUgbUCP.jpg",
+                "originalUrl": "brandy glass.jpg",
+                "useCrushedKey": true
+              }
+            },
+            "title": "<p>白兰地由什么原料酿造？</p>",
+            "answers": [
+              {
+                "id": "ckdg8cb2400053667pboo0r37",
+                "title": "<p>葡萄</p>",
+                "feedback": ""
+              },
+              {
+                "id": "ckdg8cb2400063667g2lhv7ad",
+                "title": "<p>谷物</p>",
+                "feedback": ""
+              },
+              {
+                "id": "ckdga7jl8004436678vgnspai",
+                "isNew": true,
+                "title": "<p>甘蔗</p>"
+              },
+              {
+                "id": "ckdga7lny00453667iz75vlml",
+                "isNew": true,
+                "title": "<p>龙舌兰</p>"
+              }
+            ],
+            "correct": "ckdg8cb2400053667pboo0r37",
+            "corrects": [
+              "ckdg8cb2400053667pboo0r37"
+            ],
+            "feedback": "<p>虽然在欧洲以外的地区，白兰地可以用任何水果（李子、樱桃、蜜桃等）酿造，但在欧洲，欧盟法规规定，带白兰地酒标的烈酒必须使用葡萄酿造。</p>"
+          },
+          {
+            "id": "ckdg8cb2400073667lkiskruq",
+            "type": "MULTIPLE_CHOICE",
+            "media": {
+              "image": {
+                "key": "rise/courses/eNKXikLLdWhwRSOse9sBHdI6HWL-uxK-/iTy3vB540eUrSOI1-raisin%2520blc%2520trois.jpg",
+                "type": "image",
+                "crushedKey": "KgGO9wV2oJLW10e8_Prnp5HlfmkiFXrtY.jpg",
+                "originalUrl": "raisin blc trois.jpg",
+                "useCrushedKey": true
+              }
+            },
+            "title": "<p>根据欧盟的要求，有多少比例的白兰地是必须使用从欧盟采购的葡萄酿造的？</p>",
+            "answers": [
+              {
+                "id": "ckdg8cb24000836679sx0y560",
+                "title": "<p>无要求</p>",
+                "feedback": ""
+              },
+              {
+                "id": "ckdg8cb24000a3667qrcfcto8",
+                "title": "<p>100%</p>",
+                "feedback": ""
+              },
+              {
+                "id": "ckdg8cb24000b36672hmqgtfz",
+                "title": "<p>90%</p>",
+                "feedback": ""
+              },
+              {
+                "id": "ckdg8cb2400093667de5vcwmz",
+                "title": "<p>50%</p>",
+                "feedback": ""
+              }
+            ],
+            "correct": "ckdg8cb24000836679sx0y560",
+            "corrects": [
+              "ckdg8cb24000836679sx0y560",
+              "ckdg8cb2400093667de5vcwmz"
+            ],
+            "feedback": "<p>欧盟法规没有针对葡萄原产地的规定。但圣雷米决定使用 100% 的法国葡萄。</p>"
+          },
+          {
+            "id": "ckdgca3mf005b3667wuundwdy",
+            "type": "MULTIPLE_CHOICE",
+            "media": {
+              "image": {
+                "key": "rise/courses/eNKXikLLdWhwRSOse9sBHdI6HWL-uxK-/sUVGDORH0R9JdtA8-brandy%2520barrel.jpg",
+                "type": "image",
+                "crushedKey": "nTp9xTNKE7dqZMzk_R8ZbkMxJAjcbjyy-.jpg",
+                "originalUrl": "brandy barrel.jpg",
+                "useCrushedKey": true
+              }
+            },
+            "title": "<p>根据欧盟的要求，白兰地在装瓶前必须在容量小于 1000 公升的橡木桶中陈酿至少多久？</p>",
+            "answers": [
+              {
+                "id": "ckdgca3mf005c3667inhg5l43",
+                "title": "<p>六个月</p>",
+                "feedback": ""
+              },
+              {
+                "id": "ckdgca3mf005d3667bjn8nkzz",
+                "title": "<p>一年</p>",
+                "feedback": ""
+              },
+              {
+                "id": "ckdgcbdni005e36679tkkp118",
+                "isNew": true,
+                "title": "<p>两年</p>"
+              },
+              {
+                "id": "ckdgcbic9005f3667a7n3wba5",
+                "isNew": true,
+                "title": "<p>无最短时间要求</p>"
+              }
+            ],
+            "correct": "ckdgca3mf005c3667inhg5l43",
+            "corrects": [
+              "ckdgca3mf005c3667inhg5l43"
+            ],
+            "feedback": "<p>The EU legal requirement for oak ageing with a capacity of less than 1000 liters for a &nbsp;brandy is six months.</p>"
+          },
+          {
+            "id": "ckdgeodln006t36671ekyrg1f",
+            "type": "FILL_IN_THE_BLANK",
+            "media": {
+              "image": {
+                "key": "rise/courses/eNKXikLLdWhwRSOse9sBHdI6HWL-uxK-/j1he54VmCmF0dcPs-St%2520Remy%2520VSOP.jpeg",
+                "type": "image",
+                "crushedKey": "xP0D60DvYg0U4tW1_rwhRcn8E-kG9h3H0.jpg",
+                "originalUrl": "St Remy VSOP.jpeg",
+                "useCrushedKey": true
+              }
+            },
+            "title": "<p>V.S.O.P 中的 P 代表什么？</p>",
+            "answers": [
+              {
+                "id": "ckdgeodlo006u36676kgx08lz",
+                "title": "Pale"
+              }
+            ],
+            "feedback": "<p>P 代表“Very Superior Old Pale”中的“Pale”，意指白兰地的颜色。一款 V.S.O.P 白兰地在未经规范着色的情况下，几乎不可能呈现出过深的颜色。V.S 代表“Very Special”，而 X.O 则代表“Extra Old”。 </p>"
+          }
+        ],
+        "media": {},
+        "piles": [],
+        "settings": {
+          "retryCount": -1,
+          "passingScore": 0,
+          "revealAnswers": true,
+          "shuffleAnswerChoices": true,
+          "randomizeQuestionOrder": false
+        },
+        "duplicatedFromId": "",
+        "deleted": false,
+        "createdAt": "2020-08-04T17:49:02.521Z",
+        "updatedAt": "2020-12-11T22:11:36.920Z",
+        "lastUpdatedBy": "auth0|5b3a656445d8a648a1510a8b",
+        "ready": true,
+        "position": null,
+        "transferredAt": null,
+        "duration": 2,
+        "isPartnerContentAuthor": null,
+        "headerImage": {}
+      },
+      {
+        "id": "PL4w1pl9mwQXXLhJ5XJDkz6ijDjL-Zvk",
+        "originalId": null,
+        "author": "auth0|5b3a656445d8a648a1510a8b",
+        "selectedAuthorId": "auth0|5b3a656445d8a648a1510a8b",
+        "courseId": "eNKXikLLdWhwRSOse9sBHdI6HWL-uxK-",
+        "title": "白兰地的基础知识",
+        "description": "",
+        "type": "blocks",
+        "icon": "Article",
+        "items": [
+          {
+            "id": "ckdgfb7lj00753667r9givlp2",
+            "type": "text",
+            "items": [
+              {
+                "id": "ckdg8cb2800243667oo4fs0jb",
+                "heading": "<p>白兰地的基础知识&nbsp;</p>",
+                "paragraph": "<p>如您所见，即便欧盟法规并无要求，圣雷米仍承诺 100% 源自法国。在继续课程之前，让我们进一步了解白兰地这一产品。</p>"
+              }
+            ],
+            "family": "text",
+            "variant": "paragraph",
+            "settings": {
+              "paddingTop": 3,
+              "paddingBottom": 3,
+              "backgroundColor": "",
+              "entranceAnimation": true
+            }
+          },
+          {
+            "id": "ckdgfdiv7007736677rw6f3b6",
+            "type": "text",
+            "items": [
+              {
+                "id": "ckdg8cb2800243667oo4fs0jb",
+                "heading": "<p><strong>原料</strong></p>",
+                "paragraph": "<p>不同的烈酒由不同的原料酿造。请点击以下卡片，查看每种原料可酿造的烈酒：</p>"
+              }
+            ],
+            "family": "text",
+            "variant": "heading paragraph",
+            "settings": {
+              "paddingTop": 3,
+              "paddingBottom": 3,
+              "backgroundColor": "",
+              "entranceAnimation": true
+            }
+          },
+          {
+            "id": "ckdgfce5800763667h3abijqx",
+            "type": "interactive",
+            "items": [
+              {
+                "id": "ckdg8cb28000m3667l8a3oje5",
+                "back": {
+                  "media": {
+                    "image": {
+                      "key": "assets/rise/assets/block-defaults/mountains.jpg",
+                      "src": "KgcE5g5POqT5UC0c_mountains.jpg",
+                      "type": "image",
+                      "thumbnail": "https://articulateusercontent.com/assets/rise/assets/block-defaults/mountains_thumb.jpg",
+                      "originalUrl": "mountains.jpg"
+                    }
+                  },
+                  "description": "<p>Whiskies are produced from cereal grains, like barley, wheat, corn and rye. &nbsp;The grains are fermented into a low-alcohol beer and then distilled to reach the desired proof.</p>"
+                },
+                "front": {
+                  "type": "fullimage",
+                  "media": {
+                    "image": {
+                      "key": "rise/courses/eNKXikLLdWhwRSOse9sBHdI6HWL-uxK-/ZLBz4XCQm_-A5Hqp-Grain.png",
+                      "type": "image",
+                      "crushedKey": "T1tBI7PYe3yXsLSS_Chgz4rAWUAxsVuY1.jpg",
+                      "originalUrl": "Grain.png",
+                      "useCrushedKey": true
+                    }
+                  },
+                  "description": "Front of card 1"
+                }
+              },
+              {
+                "id": "ckdg8cb28000n3667eat6g45o",
+                "back": {
+                  "media": {
+                    "image": {
+                      "key": "assets/rise/assets/block-defaults/mountains.jpg",
+                      "src": "KgcE5g5POqT5UC0c_mountains.jpg",
+                      "type": "image",
+                      "thumbnail": "https://articulateusercontent.com/assets/rise/assets/block-defaults/mountains_thumb.jpg",
+                      "originalUrl": "mountains.jpg"
+                    }
+                  },
+                  "description": "<p>Rums are produced from sugar cane &ndash; either the fresh squeezed juice or from molasses, a by-product of the sugar-making process. &nbsp;The molasses is fermented into wash and then distilled.</p>"
+                },
+                "front": {
+                  "type": "fullimage",
+                  "media": {
+                    "image": {
+                      "key": "rise/courses/eNKXikLLdWhwRSOse9sBHdI6HWL-uxK-/HYHZ6yXf-pFZfNtB-Sugar%2520Cane.png",
+                      "type": "image",
+                      "crushedKey": "pfRa9wck09tjvNT2_1BqrYddee0IcVnJu.jpg",
+                      "originalUrl": "Sugar Cane.png",
+                      "useCrushedKey": true
+                    }
+                  },
+                  "description": "Front of card 2"
+                }
+              },
+              {
+                "id": "ckdg8cb28000o36679gpbhv0b",
+                "back": {
+                  "media": {
+                    "image": {
+                      "key": "assets/rise/assets/block-defaults/mountains.jpg",
+                      "src": "KgcE5g5POqT5UC0c_mountains.jpg",
+                      "type": "image",
+                      "thumbnail": "https://articulateusercontent.com/assets/rise/assets/block-defaults/mountains_thumb.jpg",
+                      "originalUrl": "mountains.jpg"
+                    }
+                  },
+                  "description": "<p>Tequila is produced from the agave plant, a member of the lily family. &nbsp;The agaves are cooked, and the resulting sugars are then fermented before distillation.</p>"
+                },
+                "front": {
+                  "type": "fullimage",
+                  "media": {
+                    "image": {
+                      "key": "rise/courses/eNKXikLLdWhwRSOse9sBHdI6HWL-uxK-/nVEpyXULbcRF8jXW-Agave.png",
+                      "type": "image",
+                      "crushedKey": "uxsfTh0nFemG6JrG_vTNCG26OaqCJOMhG.jpg",
+                      "originalUrl": "Agave.png",
+                      "useCrushedKey": true
+                    }
+                  },
+                  "description": "Front of card 3"
+                }
+              },
+              {
+                "id": "ckdgfeaym007b3667brc3dmrg",
+                "back": {
+                  "media": {
+                    "image": {
+                      "key": "assets/rise/assets/block-defaults/mountains.jpg",
+                      "src": "KgcE5g5POqT5UC0c_mountains.jpg",
+                      "type": "image",
+                      "thumbnail": "https://articulateusercontent.com/assets/rise/assets/block-defaults/mountains_thumb.jpg",
+                      "originalUrl": "mountains.jpg"
+                    }
+                  },
+                  "description": "<p>While brandy can be made from almost any fruit worldwide, the greatest majority are made from grapes. &nbsp;Grapes are harvested, pressed, fermented into wine and then distilled into brandy.</p>"
+                },
+                "front": {
+                  "type": "fullimage",
+                  "media": {
+                    "image": {
+                      "key": "rise/courses/eNKXikLLdWhwRSOse9sBHdI6HWL-uxK-/h-Z5zO6R86CZ_IDz-Grapes.png",
+                      "type": "image",
+                      "crushedKey": "0qMgxZ0u61PzcKOM_cVIyBVBNjScrVOvI.jpg",
+                      "originalUrl": "Grapes.png",
+                      "useCrushedKey": true
+                    }
+                  },
+                  "description": "Front of card"
+                }
+              }
+            ],
+            "family": "flashcard",
+            "variant": "flashcard",
+            "settings": {
+              "paddingTop": 3,
+              "paddingBottom": 3,
+              "backgroundColor": "",
+              "entranceAnimation": true
+            }
+          },
+          {
+            "id": "cke4dvuel003a3666gfgsvqta",
+            "type": "text",
+            "items": [
+              {
+                "id": "cke4d9ezl00273666k8kw1fnd",
+                "heading": "<p><strong>“白兰地”一词的来源是什么？</strong></p>"
+              }
+            ],
+            "family": "text",
+            "variant": "subheading",
+            "settings": {
+              "paddingTop": 3,
+              "paddingBottom": 0,
+              "backgroundColor": "",
+              "entranceAnimation": true
+            }
+          },
+          {
+            "id": "ckdgfhv6b007n36677802qm9z",
+            "type": "image",
+            "items": [
+              {
+                "id": "ckdg8cb29002g3667eh0b3ww8",
+                "media": {
+                  "image": {
+                    "key": "rise/courses/eNKXikLLdWhwRSOse9sBHdI6HWL-uxK-/uBkbUSIo6hcaKfq--Old%2520Brandy.png",
+                    "type": "image",
+                    "crushedKey": "Xy7F14MlaGz0ZKNG_ljuQtWQHtfPDXX4g.jpg",
+                    "originalUrl": "Old Brandy.png",
+                    "useCrushedKey": true
+                  }
+                },
+                "caption": "",
+                "paragraph": "<p>白兰地（Brandy）是一个英语词汇，指的是一种生命之水（蒸馏液），通常由葡萄酿造。</p><p>“白兰地”一词源自古荷兰语“brandewijn”，意为烧制的葡萄酒。被称为“海上霸王”的荷兰商人发展了“brandewijn”生意，并使其享誉整个欧洲。</p><p>随着英格兰在国际贸易中的地位日益提升，白兰地一词也随之广泛流传。</p>"
+              }
+            ],
+            "media": {},
+            "family": "image",
+            "variant": "text aside",
+            "settings": {
+              "opacity": 0.2,
+              "paddingTop": 3,
+              "zoomOnClick": true,
+              "opacityColor": "#000000",
+              "paddingBottom": 3,
+              "backgroundColor": "",
+              "entranceAnimation": true
+            }
+          },
+          {
+            "id": "ckdgfoolk007x3667trjv1lu0",
+            "type": "text",
+            "items": [
+              {
+                "id": "ckdg8cb28002736677jd2i8q8",
+                "heading": "<p><strong>白兰地可以在哪里生产？</strong></p>"
+              }
+            ],
+            "family": "text",
+            "variant": "subheading",
+            "settings": {
+              "paddingTop": 3,
+              "paddingBottom": 0,
+              "backgroundColor": "",
+              "entranceAnimation": true
+            }
+          },
+          {
+            "id": "ckiku78fd003c356cx49069r4",
+            "type": "image",
+            "items": [
+              {
+                "id": "ckikt6qcp002j356cv0coz9fp",
+                "media": {
+                  "image": {
+                    "key": "rise/courses/eNKXikLLdWhwRSOse9sBHdI6HWL-uxK-/GXC_i2lsrGNgED5i-Brandy%2520Global.png",
+                    "type": "image",
+                    "crushedKey": "2ElbTXKwIgezBB-1_DBkvyk2ZaCETDCw7.png",
+                    "originalUrl": "Brandy Global.png",
+                    "useCrushedKey": true
+                  }
+                },
+                "caption": ""
+              },
+              {
+                "id": "ckikt6qcp002k356cv9aw5iok",
+                "media": {
+                  "image": {
+                    "key": "rise/courses/eNKXikLLdWhwRSOse9sBHdI6HWL-uxK-/a0SjaDr4i2HKPUmJ-French%2520Brandy.png",
+                    "type": "image",
+                    "crushedKey": "q7jUozyOIYGgndGf_y_RkKvVVk7IuNEVx.jpg",
+                    "originalUrl": "French Brandy.png",
+                    "useCrushedKey": true
+                  }
+                },
+                "caption": ""
+              }
+            ],
+            "family": "gallery",
+            "variant": "two column",
+            "settings": {
+              "paddingTop": 3,
+              "zoomOnClick": true,
+              "paddingBottom": 3,
+              "backgroundColor": "",
+              "entranceAnimation": true
+            }
+          },
+          {
+            "id": "ckdgfp93f007z36679u7xygoa",
+            "type": "list",
+            "items": [
+              {
+                "id": "ckdg8cb29002d36670qhxtlpq",
+                "paragraph": "<p>白兰地可以在世界上任何地方合法生产</p>"
+              },
+              {
+                "id": "ckdg8cb29002e36672xtq823f",
+                "paragraph": "<p>法国被视为白兰地的故乡，这里生产的白兰地因品质卓越而闻名遐迩</p>"
+              },
+              {
+                "id": "ckdg8cb29002f36671auruzf2",
+                "paragraph": "<p>请注意，干邑和雅文邑都是葡萄烈酒。欧盟有两个独立的烈酒类别：葡萄烈酒和白兰地。此外，干邑和雅文邑均受 AOC（法定产区）保护。AOC 的要求包括有限的生产区域、受监管的葡萄品种以及至关重要的蒸馏和陈酿流程。</p>"
+              }
+            ],
+            "family": "list",
+            "variant": "numbered",
+            "settings": {
+              "paddingTop": 3,
+              "paddingBottom": 3,
+              "backgroundColor": "",
+              "entranceAnimation": true
+            }
+          }
+        ],
+        "media": {},
+        "piles": [],
+        "settings": {},
+        "duplicatedFromId": "",
+        "deleted": false,
+        "createdAt": "2020-08-04T17:49:14.292Z",
+        "updatedAt": "2021-01-29T02:38:47.192Z",
+        "lastUpdatedBy": "auth0|5b3a656445d8a648a1510a8b",
+        "ready": true,
+        "position": null,
+        "transferredAt": null,
+        "duration": 3,
+        "isPartnerContentAuthor": null,
+        "headerImage": {}
+      },
+      {
+        "id": "vhiU3i16EquAgUy6K5RoMLNXClKbF7Am",
+        "originalId": null,
+        "author": "auth0|5b3a656445d8a648a1510a8b",
+        "selectedAuthorId": "auth0|5b3a656445d8a648a1510a8b",
+        "courseId": "eNKXikLLdWhwRSOse9sBHdI6HWL-uxK-",
+        "title": "圣雷米的根源",
+        "description": "",
+        "type": "blocks",
+        "icon": "Article",
+        "items": [
+          {
+            "id": "ckdgg8av800833667j40myzqv",
+            "type": "image",
+            "items": [
+              {
+                "id": "ckdg8cb29002g3667eh0b3ww8",
+                "media": {
+                  "image": {
+                    "key": "rise/courses/eNKXikLLdWhwRSOse9sBHdI6HWL-uxK-/NJkJuJJfpQ6orM4x-Paul%2520Emile.JPG",
+                    "type": "image",
+                    "crushedKey": "gHZpOugNz3fv8lbF_CWRyqRQJLVjIy4U6.jpg",
+                    "originalUrl": "Paul Emile.JPG",
+                    "useCrushedKey": true
+                  }
+                },
+                "caption": "",
+                "paragraph": ""
+              },
+              {
+                "id": "ckdggiitm008b3667yocy6vca",
+                "media": {
+                  "image": {
+                    "key": "rise/courses/eNKXikLLdWhwRSOse9sBHdI6HWL-uxK-/TOcBFW0IQvE5bSe8-Machecoul.JPG",
+                    "type": "image",
+                    "crushedKey": "IGwp0t1hc1Fd5kGy_a0yvo7dp_6oLItao.jpg",
+                    "originalUrl": "Machecoul.JPG",
+                    "useCrushedKey": true
+                  }
+                },
+                "caption": "",
+                "isNewlyInserted": true
+              }
+            ],
+            "media": {},
+            "family": "image",
+            "variant": "hero",
+            "settings": {
+              "opacity": 0.2,
+              "paddingTop": 3,
+              "zoomOnClick": true,
+              "opacityColor": "#000000",
+              "paddingBottom": 3,
+              "backgroundColor": "",
+              "entranceAnimation": true
+            }
+          },
+          {
+            "id": "ckdggnb18008f366705lcwstb",
+            "type": "text",
+            "items": [
+              {
+                "id": "ckdg8cb2800243667oo4fs0jb",
+                "heading": "<p><strong>圣雷米年表</strong></p>",
+                "paragraph": "<p>请滚动浏览以下年表，了解圣雷米历史上的重要日子:</p>"
+              }
+            ],
+            "family": "text",
+            "variant": "heading paragraph",
+            "settings": {
+              "paddingTop": 3,
+              "paddingBottom": 3,
+              "backgroundColor": "",
+              "entranceAnimation": true
+            }
+          },
+          {
+            "id": "ckdgglkgc008e3667hntqah2s",
+            "type": "interactive",
+            "items": [
+              {
+                "id": "ckdg8cb28001w3667zz2fzmg5",
+                "date": "1886 年",
+                "media": {
+                  "image": {
+                    "key": "rise/courses/eNKXikLLdWhwRSOse9sBHdI6HWL-uxK-/BdkrrBIG-p1M23Ns-1886.jpg",
+                    "type": "image",
+                    "crushedKey": "9RWVVPniNkztlQwS_q3WGwM6rLukKAnRl.jpg",
+                    "originalUrl": "1886.jpg",
+                    "useCrushedKey": true
+                  }
+                },
+                "title": "酿酒厂建成",
+                "description": "<p>葡萄根瘤蚜爆发摧毁了夏朗德葡萄园后，保尔·埃米尔·雷米·马丁二世（Paul-Emile Rémy Martin II）选择了在卢瓦尔河谷的马什库勒建立酿酒厂，用于生产优质白兰地。这里的麝香葡萄和白福儿葡萄非常相似。</p>"
+              },
+              {
+                "id": "ckdg8cb28001x36678lwz2y31",
+                "date": "1917 年",
+                "media": {
+                  "image": {
+                    "key": "rise/courses/eNKXikLLdWhwRSOse9sBHdI6HWL-uxK-/SzUUyZycriUeFvOM-1917.jpg",
+                    "type": "image",
+                    "crushedKey": "DsyYAw1tAFw3BkAW_3rqn7UjTIxsV1raR.jpg",
+                    "originalUrl": "1917.jpg",
+                    "useCrushedKey": true
+                  }
+                },
+                "title": "“精品圣雷米”的诞生",
+                "description": "<p>1917 年的原始配方是这款独特而纯正的法国白兰地的精髓所在。 &nbsp;</p>"
+              },
+              {
+                "id": "ckdggt8sz008k3667cj62x8ti",
+                "date": "1961 年",
+                "media": {
+                  "image": {
+                    "key": "rise/courses/eNKXikLLdWhwRSOse9sBHdI6HWL-uxK-/LX52aNHvNUhQGzz5-1949.jpg.png",
+                    "type": "image",
+                    "crushedKey": "ySeoonhBjS85wfmd_59FJubTmkQ1I26QC.jpg",
+                    "originalUrl": "1949.jpg.png",
+                    "useCrushedKey": true
+                  }
+                },
+                "title": "独特的圣雷米酒瓶诞生",
+                "description": "<p>圣雷米一直以来都是白兰地领域的先驱。圣雷米酒瓶于 1961 年在干邑商业法庭登记。&nbsp;</p>"
+              },
+              {
+                "id": "ckdggub0s008o3667j04c3v4x",
+                "date": "1972 年",
+                "media": {
+                  "image": {
+                    "key": "rise/courses/eNKXikLLdWhwRSOse9sBHdI6HWL-uxK-/6ie-kqfpt01vEN-H-1972.jpg",
+                    "type": "image",
+                    "crushedKey": "PhznuGgU3FVOXPZA_hbG0q7BQHh84jgz1.jpg",
+                    "originalUrl": "1972.jpg",
+                    "useCrushedKey": true
+                  }
+                },
+                "title": "圣雷米出口至 80 个国家和地区",
+                "description": "<p>圣雷米真正开始在全球范围内斩获成功</p>"
+              },
+              {
+                "id": "ckdggvpd8008s3667r7lg7y9a",
+                "date": "1980 年",
+                "media": {
+                  "image": {
+                    "key": "rise/courses/eNKXikLLdWhwRSOse9sBHdI6HWL-uxK-/yugVirozpL6srNHr-1980.jpg",
+                    "type": "image",
+                    "crushedKey": "JBrXquc6Ma-EixW__9kqkty-sUcGM0kYB.jpg",
+                    "originalUrl": "1980.jpg",
+                    "useCrushedKey": true
+                  }
+                },
+                "title": "St-Rémy Launches St-Rémy Napoleon VSOP",
+                "description": ""
+              },
+              {
+                "id": "ckdgh464c008w3667pk8f7sdb",
+                "date": "1990 年",
+                "media": {
+                  "image": {
+                    "key": "rise/courses/eNKXikLLdWhwRSOse9sBHdI6HWL-uxK-/9H8KoYx4r5bGdhmP-1990.jpg",
+                    "type": "image",
+                    "crushedKey": "Zx02jXLvJKwuxk-i_moV6xtxakovzPkr1.jpg",
+                    "originalUrl": "1990.jpg",
+                    "useCrushedKey": true
+                  }
+                },
+                "title": "圣雷米首席调酒大师玛蒂娜·潘（Martine Pain）打造了圣雷米 X.O",
+                "description": ""
+              },
+              {
+                "id": "ckdgh5fsx00903667xws9xeo3",
+                "date": "2012 年",
+                "media": {
+                  "image": {
+                    "key": "rise/courses/eNKXikLLdWhwRSOse9sBHdI6HWL-uxK-/usqw7RHEySsy77xF-2012.jpg",
+                    "type": "image",
+                    "crushedKey": "R5g4oQy1ZRZcIlqp_FjxRvsfyKqtykVyJ.jpg",
+                    "originalUrl": "2012.jpg",
+                    "useCrushedKey": true
+                  }
+                },
+                "title": "玛蒂娜·潘打造了圣雷米私人珍藏系列",
+                "description": "<p>这是品牌首款高端限量版白兰地</p>"
+              },
+              {
+                "id": "ckdgh7ghi009436671anmzlog",
+                "date": "2014 年",
+                "media": {
+                  "image": {
+                    "key": "rise/courses/eNKXikLLdWhwRSOse9sBHdI6HWL-uxK-/3aLtDsFXWVdFLo9Q-2014.jpg",
+                    "type": "image",
+                    "crushedKey": "HAideibSkjNxlpcy_zwyKn9vab2K2FUEx.jpg",
+                    "originalUrl": "2014.jpg",
+                    "useCrushedKey": true
+                  }
+                },
+                "title": "圣雷米推出限量版小批量珍藏白兰地",
+                "description": ""
+              },
+              {
+                "id": "ckdgh8ria00983667rzx1pbww",
+                "date": "2016 年",
+                "media": {
+                  "image": {
+                    "key": "rise/courses/eNKXikLLdWhwRSOse9sBHdI6HWL-uxK-/g-M_uWsKAFD9zSCd-2016.jpg",
+                    "type": "image",
+                    "crushedKey": "oPkdqZCPhgoVdvSw_AWkrlQkBoenbiWjZ.jpg",
+                    "originalUrl": "2016.jpg",
+                    "useCrushedKey": true
+                  }
+                },
+                "title": "玛蒂娜·潘在为圣雷米效力 35 年后退休",
+                "description": "<p>塞西尔·鲁多（Cécile Roudaut）为打造圣雷米限量版白兰地作出了卓越贡献，随后掌管品牌。</p>"
+              },
+              {
+                "id": "ckdgh9z5m009c3667lpn5p8qe",
+                "date": "2017 年",
+                "media": {
+                  "image": {
+                    "key": "rise/courses/eNKXikLLdWhwRSOse9sBHdI6HWL-uxK-/B2W_JEIwD7FhaMS7-2017.jpg",
+                    "type": "image",
+                    "crushedKey": "WiOg_uvsnO9Nm1J5_rDQ1xk6Jk5I-fSKM.jpg",
+                    "originalUrl": "2017.jpg",
+                    "useCrushedKey": true
+                  }
+                },
+                "title": "灵感源自其历史和根源",
+                "description": "<p>世界顶级法国白兰地圣雷米升级了产品系列包装。包装换新颜，美酒仍醇香！ </p>"
+              },
+              {
+                "id": "cke32u8vn003o3667e2surwyb",
+                "date": "从 2018 年至今",
+                "media": {
+                  "image": {
+                    "key": "rise/courses/eNKXikLLdWhwRSOse9sBHdI6HWL-uxK-/-LutUr2dGBqREZtT-Full%2520cask%2520range.png",
+                    "type": "image",
+                    "crushedKey": "6FeqHYXlGU-q8WiX_n0rcnzduG3LMCXQu.png",
+                    "originalUrl": "Full cask range.png",
+                    "useCrushedKey": true
+                  }
+                },
+                "title": "推出桶酿系列",
+                "description": "<p>在塞西尔·鲁多的专业领导下，每年都有新品推出。</p>",
+                "isNewlyInserted": true
+              }
+            ],
+            "family": "interactive-fullscreen",
+            "variant": "timeline",
+            "settings": {
+              "mediaWidth": "1",
+              "paddingTop": 3,
+              "zoomOnClick": true,
+              "paddingBottom": 3,
+              "backgroundColor": "#f5f5f5",
+              "entranceAnimation": true
+            }
+          },
+          {
+            "id": "ckdghgtlo009q3667g7hnazku",
+            "type": "text",
+            "items": [
+              {
+                "id": "ckdg8cb2800243667oo4fs0jb",
+                "heading": "<p><strong><strong>St-R&eacute;my</strong> 圣雷米的根源总结</strong></p>",
+                "paragraph": "<p>回顾本章节的要点。</p>"
+              }
+            ],
+            "family": "text",
+            "variant": "heading paragraph",
+            "settings": {
+              "paddingTop": 3,
+              "paddingBottom": 3,
+              "backgroundColor": "",
+              "entranceAnimation": true
+            }
+          },
+          {
+            "id": "ckdgheewa009g3667zjcb175d",
+            "type": "list",
+            "items": [
+              {
+                "id": "ckdg8cb29002d36670qhxtlpq",
+                "paragraph": "<p>保尔·埃米尔·雷米·马丁二世（第四代雷米·马丁）创立了圣雷米，以便在危难时期保护家族遗产</p>"
+              },
+              {
+                "id": "ckdg8cb29002e36672xtq823f",
+                "paragraph": "<p>圣雷米的地道风味和卓越品质已传承超过 134 年，是当之无愧的国际品牌</p>"
+              },
+              {
+                "id": "ckdg8cb29002f36671auruzf2",
+                "paragraph": "<p>圣雷米凭借其不断创新的限量版白兰地而备受青睐</p>"
+              }
+            ],
+            "family": "list",
+            "variant": "checkboxes",
+            "settings": {
+              "paddingTop": 3,
+              "paddingBottom": 3,
+              "backgroundColor": "",
+              "entranceAnimation": true
+            }
+          }
+        ],
+        "media": {},
+        "piles": [],
+        "settings": {},
+        "duplicatedFromId": "mIJ_w_rFlTe3-oXjXTcSRpzycCkbgeCq",
+        "deleted": false,
+        "createdAt": "2020-08-20T17:24:01.792Z",
+        "updatedAt": "2020-10-26T21:46:39.905Z",
+        "lastUpdatedBy": "auth0|5b3a656445d8a648a1510a8b",
+        "ready": true,
+        "position": null,
+        "transferredAt": null,
+        "duration": 4,
+        "isPartnerContentAuthor": null,
+        "headerImage": {}
+      },
+      {
+        "id": "z0VldR4d-dIe9M2u6GB2Xt0HQDNA-m6I",
+        "originalId": null,
+        "author": "auth0|5b3a656445d8a648a1510a8b",
+        "selectedAuthorId": "auth0|5b3a656445d8a648a1510a8b",
+        "courseId": "eNKXikLLdWhwRSOse9sBHdI6HWL-uxK-",
+        "title": "圣雷米的技艺：在法国当地蒸馏的法国葡萄酒",
+        "description": "",
+        "type": "blocks",
+        "icon": "Article",
+        "items": [
+          {
+            "id": "ckdghm26r009s3667ump22ivn",
+            "type": "image",
+            "items": [
+              {
+                "id": "ckdg8cb29002g3667eh0b3ww8",
+                "media": {
+                  "image": {
+                    "key": "rise/courses/eNKXikLLdWhwRSOse9sBHdI6HWL-uxK-/hvNukf4Jni9C79Rx-Cecile%2520Roudat3.png",
+                    "type": "image",
+                    "crushedKey": "py2T8IjZCiVMzU0B_gzv6ZtMbMfKwP2g5.jpg",
+                    "originalUrl": "Cecile Roudat3.png",
+                    "useCrushedKey": true
+                  }
+                },
+                "caption": "",
+                "paragraph": ""
+              }
+            ],
+            "family": "image",
+            "variant": "hero",
+            "settings": {
+              "opacity": 0.2,
+              "paddingTop": 3,
+              "zoomOnClick": false,
+              "opacityColor": "#000000",
+              "paddingBottom": 3,
+              "backgroundColor": "",
+              "entranceAnimation": true
+            }
+          },
+          {
+            "id": "ckdghvx3a009v3667ihf4lala",
+            "type": "text",
+            "items": [
+              {
+                "id": "ckdg8cb2800243667oo4fs0jb",
+                "heading": "<p><strong>圣雷米 100% 源自法国！</strong></p>",
+                "paragraph": "<p>关于圣雷米，需要记住的首要重点是它 100% 源自法国！从采摘到装瓶均在法国完成。我们的生产工艺旨在保护葡萄复杂多样的香气。  &nbsp;</p>"
+              }
+            ],
+            "family": "text",
+            "variant": "heading paragraph",
+            "settings": {
+              "paddingTop": 3,
+              "paddingBottom": 3,
+              "backgroundColor": "",
+              "entranceAnimation": true
+            }
+          },
+          {
+            "id": "ckdgiz4ww00ax3667kye48udx",
+            "type": "text",
+            "items": [
+              {
+                "id": "ckdg8cb2800243667oo4fs0jb",
+                "heading": "<p><strong>100% French Grapes</strong></p>",
+                "paragraph": "<p>一切都始于从法国葡萄园挑选红葡萄与白葡萄。</p>"
+              }
+            ],
+            "family": "text",
+            "variant": "heading paragraph",
+            "settings": {
+              "paddingTop": 3,
+              "paddingBottom": 3,
+              "backgroundColor": "",
+              "entranceAnimation": true
+            }
+          },
+          {
+            "id": "ckdgizqt800ay3667tg9zsocl",
+            "type": "image",
+            "items": [
+              {
+                "id": "ckdg8cb29002g3667eh0b3ww8",
+                "media": {
+                  "image": {
+                    "key": "rise/courses/eNKXikLLdWhwRSOse9sBHdI6HWL-uxK-/N83uSlg40BaxA995-Terroirs.png",
+                    "type": "image",
+                    "crushedKey": "O-Wc7kp5YpJ5wDqJ_AhT-ss9EUfu1WaG6.png",
+                    "originalUrl": "Terroirs.png",
+                    "useCrushedKey": true
+                  }
+                },
+                "caption": "",
+                "paragraph": ""
+              }
+            ],
+            "family": "image",
+            "variant": "hero",
+            "settings": {
+              "opacity": 0.2,
+              "paddingTop": 3,
+              "zoomOnClick": false,
+              "opacityColor": "#000000",
+              "paddingBottom": 3,
+              "backgroundColor": "",
+              "entranceAnimation": true
+            }
+          },
+          {
+            "id": "ckdgj1y3y00b136674waceq4l",
+            "type": "text",
+            "items": [
+              {
+                "id": "ckdg8cb2800243667oo4fs0jb",
+                "heading": "<strong>Heading</strong>",
+                "paragraph": "<p>口感圆润、细腻、均衡，圣雷米的特色展现了法国葡萄酒产区的丰富多样性，这得益于我们举世闻名的法国风土。</p><p>从法国全境进行挑选，其首要核心在于独特的风土条件。</p>"
+              }
+            ],
+            "media": {},
+            "family": "text",
+            "variant": "paragraph",
+            "settings": {
+              "paddingTop": 3,
+              "paddingBottom": 3,
+              "backgroundColor": "",
+              "entranceAnimation": true
+            }
+          },
+          {
+            "id": "ckdgj39gu00b2366778luhogk",
+            "type": "text",
+            "items": [
+              {
+                "id": "ckdg8cb2800243667oo4fs0jb",
+                "heading": "<p><strong>探索法国风土的多样性</strong></p>",
+                "paragraph": "<p>干邑仅采用在单一产区种植的限量白葡萄进行酿造，但圣雷米酿造白兰地不受此限制，得以从法国丰富多样的风土中进行挑选。 &nbsp;</p><p><strong>点击以下四个标签，了解每处风土的独特之处：</strong></p>"
+              }
+            ],
+            "family": "text",
+            "variant": "heading paragraph",
+            "settings": {
+              "paddingTop": 3,
+              "paddingBottom": 3,
+              "backgroundColor": "",
+              "entranceAnimation": true
+            }
+          },
+          {
+            "id": "ckdgj3u6100b3366790dipkt5",
+            "type": "interactive",
+            "items": [
+              {
+                "id": "ckdg8cb27000j3667kthpkcrz",
+                "media": {
+                  "image": {
+                    "key": "rise/courses/eNKXikLLdWhwRSOse9sBHdI6HWL-uxK-/zH0QB0ujjNP_aKjy-Champagne%2520Terroir.png",
+                    "type": "image",
+                    "crushedKey": "AuBlS8flA9uxHaWN_5_MnnvS0RyLzosu7.jpg",
+                    "originalUrl": "Champagne Terroir.png",
+                    "useCrushedKey": true
+                  }
+                },
+                "title": "香槟*产区",
+                "description": "<p><br></p><p><strong>起泡葡萄酒产区</strong></p><p>气候：年平均气温 10 ℃（50 ℉）。</p><p>土壤：白垩土。</p><p>葡萄品种：黑皮诺、莫尼耶皮诺、霞多丽。</p><p>生命之水种类：散发植物香气，口感顺滑，充满强劲果香。</p><p><br></p><p>*在严格监管下使用（法定产区葡萄酒），请勿外传</p>"
+              },
+              {
+                "id": "ckdg8cb27000k3667b3h6ey7n",
+                "media": {
+                  "image": {
+                    "key": "rise/courses/eNKXikLLdWhwRSOse9sBHdI6HWL-uxK-/ep2bn1hYnsfAgXB--Bordeaux%2520Terroir.png",
+                    "type": "image",
+                    "crushedKey": "f0-YNRD2etkj9SYT_lZkfmUGMVdz6N9Qc.jpg",
+                    "originalUrl": "Bordeaux Terroir.png",
+                    "useCrushedKey": true
+                  }
+                },
+                "title": "波尔多*产区",
+                "description": "<p><strong>主要为红葡萄酒产区，也以苏玳产区出产的干型和甜型葡萄酒而闻名</strong></p><p>气候：温带海洋性气候，无旱季，夏季气候温暖。</p><p>土壤：石灰石和钙含量高的土壤结构。砾石、沙石和黏土区。&nbsp;</p><p>葡萄品种：梅洛、赤霞珠、品丽珠、赛美蓉。</p><p>生命之水种类：柔顺丝滑，红葡萄酿造尤甚。</p><p><br></p><p>*在严格监管下使用（法定产区葡萄酒），请勿外传</p>"
+              },
+              {
+                "id": "ckdg8cb28000l3667hb19wph7",
+                "media": {
+                  "image": {
+                    "key": "rise/courses/eNKXikLLdWhwRSOse9sBHdI6HWL-uxK-/7oKZtquvxRe2Noep-Languedoc%2520Terroir.png",
+                    "type": "image",
+                    "crushedKey": "aaBbYRhv_Cgogktt_YMewyqJQGhVc2tBt.jpg",
+                    "originalUrl": "Languedoc Terroir.png",
+                    "useCrushedKey": true
+                  }
+                },
+                "title": "朗格多克-鲁西荣产区",
+                "description": "<p><strong>因其葡萄园面积和葡萄产量位居首位，被称作法国的“葡萄酒湖”</strong></p><p>气候：夏季非常干旱，是法国最炎热干燥的地区。</p><p>土壤：内陆为白垩土、石灰石和砾石土壤，海岸附近则多为冲积土壤。</p><p>葡萄品种：佳丽酿、西拉子、红歌海娜、白歌海娜、白玉霓。</p><p>生命之水种类：清淡香气。口感柔和精致、纯正清淡。</p>"
+              },
+              {
+                "id": "ckdgjc1i600bd3667dmlisgra",
+                "media": {
+                  "image": {
+                    "key": "rise/courses/eNKXikLLdWhwRSOse9sBHdI6HWL-uxK-/NO83wy1PQFmli51_-Loire%2520Valley%2520Terroir.png",
+                    "type": "image",
+                    "crushedKey": "9NPTx2VC7KT7LP8T_Gf_d5XG3TqybdPXk.jpg",
+                    "originalUrl": "Loire Valley Terroir.png",
+                    "useCrushedKey": true
+                  }
+                },
+                "title": "卢瓦尔河谷产区",
+                "description": "<p><strong>主要为白葡萄酒产区（干型、甜型或起泡型） </strong></p><p>气候：温和。</p><p>土壤：种类广泛的土壤和底土。</p><p>葡萄品种：品丽珠、佳美、果若、诗南、长相思。</p><p>生命之水种类：令人愉悦的果香和花香调，柔和甜美。</p>",
+                "isNewlyInserted": true
+              }
+            ],
+            "family": "interactive",
+            "variant": "tabs",
+            "settings": {
+              "paddingTop": 3,
+              "zoomOnClick": true,
+              "paddingBottom": 3,
+              "backgroundColor": "",
+              "entranceAnimation": true
+            }
+          },
+          {
+            "id": "ckdgje92o00bi3667wut3ob4n",
+            "type": "divider",
+            "items": [
+              {
+                "id": "ckdg8cb2800103667p7gpvmbh",
+                "type": "",
+                "title": "CONTINUE",
+                "buttonColor": "brand",
+                "completeHint": "Complete the content above before moving on."
+              }
+            ],
+            "family": "continue",
+            "variant": "continue",
+            "settings": {
+              "paddingTop": 3,
+              "paddingBottom": 3,
+              "backgroundColor": "",
+              "entranceAnimation": true
+            }
+          },
+          {
+            "id": "cke33mblf004q3667xy256chr",
+            "type": "text",
+            "items": [
+              {
+                "id": "cke32e2ii00213667xwxz3k5r",
+                "paragraph": "<p>圣雷米使用多个种类的葡萄，这是品牌的竞争优势——这些葡萄经过精心挑选和蒸馏，赋予独特的香气。 &nbsp;</p>"
+              }
+            ],
+            "family": "text",
+            "variant": "paragraph",
+            "settings": {
+              "paddingTop": 3,
+              "paddingBottom": 3,
+              "backgroundColor": "",
+              "entranceAnimation": true
+            }
+          },
+          {
+            "id": "ckdgjoh1u00bs3667ft62kjmp",
+            "type": "text",
+            "items": [
+              {
+                "id": "ckdg8cb2800213667g57fzi2t",
+                "paragraph": "<p><strong>点击以下图片，了解圣雷米所使用的部分常见葡萄品种的独特香气： &nbsp;</strong></p>"
+              }
+            ],
+            "family": "text",
+            "variant": "paragraph",
+            "settings": {
+              "paddingTop": 3,
+              "paddingBottom": 3,
+              "backgroundColor": "",
+              "entranceAnimation": true
+            }
+          },
+          {
+            "id": "ckdgjoarc00br3667ucxr46oo",
+            "type": "interactive",
+            "items": [
+              {
+                "id": "ckdg8cb28000m3667l8a3oje5",
+                "back": {
+                  "media": {
+                    "image": {
+                      "key": "assets/rise/assets/block-defaults/mountains.jpg",
+                      "src": "KgcE5g5POqT5UC0c_mountains.jpg",
+                      "type": "image",
+                      "thumbnail": "https://articulateusercontent.com/assets/rise/assets/block-defaults/mountains_thumb.jpg",
+                      "originalUrl": "mountains.jpg"
+                    }
+                  },
+                  "description": "<p>梅洛</p><p>产区：波尔多产区、朗格多克-鲁西荣产区、西南产区<br>香气：黑醋栗、蓝莓、黑莓、梅干、紫罗兰、咖啡</p>"
+                },
+                "front": {
+                  "type": "fullimage",
+                  "media": {
+                    "image": {
+                      "key": "rise/courses/eNKXikLLdWhwRSOse9sBHdI6HWL-uxK-/saa_AbATvsMwFjHB-Merlot%2520Aromas.png",
+                      "type": "image",
+                      "crushedKey": "vUNY77CtSZkEUJ9w_zCO_DSOkx0gcqsSr.png",
+                      "originalUrl": "Merlot Aromas.png",
+                      "useCrushedKey": true
+                    }
+                  },
+                  "description": "Front of card 1"
+                }
+              },
+              {
+                "id": "ckdg8cb28000n3667eat6g45o",
+                "back": {
+                  "media": {
+                    "image": {
+                      "key": "assets/rise/assets/block-defaults/mountains.jpg",
+                      "src": "KgcE5g5POqT5UC0c_mountains.jpg",
+                      "type": "image",
+                      "thumbnail": "https://articulateusercontent.com/assets/rise/assets/block-defaults/mountains_thumb.jpg",
+                      "originalUrl": "mountains.jpg"
+                    }
+                  },
+                  "description": "<p>歌海娜</p><p>产区：朗格多克-鲁西荣产区、普罗旺斯产区、罗纳河谷产区<br>香气：樱桃、黑醋栗、梅干、无花果、甘草、巧克力、咖啡、胡椒</p>"
+                },
+                "front": {
+                  "type": "fullimage",
+                  "media": {
+                    "image": {
+                      "key": "rise/courses/eNKXikLLdWhwRSOse9sBHdI6HWL-uxK-/bZLxLAF9B74LoLG8-Grenache%2520Aroma.png",
+                      "type": "image",
+                      "crushedKey": "7zzZS-EC-xGoLGN9_SXWk1JlMVCLfsIOr.png",
+                      "originalUrl": "Grenache Aroma.png",
+                      "useCrushedKey": true
+                    }
+                  },
+                  "description": "Front of card 2"
+                }
+              },
+              {
+                "id": "ckdg8cb28000o36679gpbhv0b",
+                "back": {
+                  "media": {
+                    "image": {
+                      "key": "assets/rise/assets/block-defaults/mountains.jpg",
+                      "src": "KgcE5g5POqT5UC0c_mountains.jpg",
+                      "type": "image",
+                      "thumbnail": "https://articulateusercontent.com/assets/rise/assets/block-defaults/mountains_thumb.jpg",
+                      "originalUrl": "mountains.jpg"
+                    }
+                  },
+                  "description": "<p>西拉</p><p>产区：朗格多克-鲁西荣产区、普罗旺斯产区、罗纳河谷产区<br>香气：紫罗兰、黑醋栗、黑莓、辛香、胡椒、甘草、皮革、野味、松露</p>"
+                },
+                "front": {
+                  "type": "fullimage",
+                  "media": {
+                    "image": {
+                      "key": "rise/courses/eNKXikLLdWhwRSOse9sBHdI6HWL-uxK-/vM_kcICJ1j77ENUc-Syrah%2520Aromas.png",
+                      "type": "image",
+                      "crushedKey": "F9o0yR1NWo50IGSV_mGRzCNDfJ6J5MRrR.png",
+                      "originalUrl": "Syrah Aromas.png",
+                      "useCrushedKey": true
+                    }
+                  },
+                  "description": "Front of card 3"
+                }
+              },
+              {
+                "id": "ckdgjv5je00c53667yh8ggj6f",
+                "back": {
+                  "media": {
+                    "image": {
+                      "key": "assets/rise/assets/block-defaults/mountains.jpg",
+                      "src": "KgcE5g5POqT5UC0c_mountains.jpg",
+                      "type": "image",
+                      "thumbnail": "https://articulateusercontent.com/assets/rise/assets/block-defaults/mountains_thumb.jpg",
+                      "originalUrl": "mountains.jpg"
+                    }
+                  },
+                  "description": "<p>赤霞珠</p><p>产区：波尔多产区、西南产区、朗格多克-鲁西荣产区、普罗旺斯产区<br>香气：覆盆子、黑醋栗、蓝莓、青椒、甘草、丁香、烟熏味</p>"
+                },
+                "front": {
+                  "type": "fullimage",
+                  "media": {
+                    "image": {
+                      "key": "rise/courses/eNKXikLLdWhwRSOse9sBHdI6HWL-uxK-/rqU_UabvDD0phvqJ-Cab%2520Sauv%2520aromas.png",
+                      "type": "image",
+                      "crushedKey": "XCiKW-PiS2fu06cw_gGUVK9SuRGzTSw2I.png",
+                      "originalUrl": "Cab Sauv aromas.png",
+                      "useCrushedKey": true
+                    }
+                  },
+                  "description": "Front of card"
+                }
+              },
+              {
+                "id": "ckdgjwgs600c836671otek34j",
+                "back": {
+                  "media": {
+                    "image": {
+                      "key": "assets/rise/assets/block-defaults/mountains.jpg",
+                      "src": "KgcE5g5POqT5UC0c_mountains.jpg",
+                      "type": "image",
+                      "thumbnail": "https://articulateusercontent.com/assets/rise/assets/block-defaults/mountains_thumb.jpg",
+                      "originalUrl": "mountains.jpg"
+                    }
+                  },
+                  "description": "<p>霞多丽</p><p>产区：勃艮第产区、汝拉产区、香槟产区、朗格多克产区<br>香气：苹果、梨、柠檬、菠萝、芒果、奶油、黄油、面包、饼干、杏仁</p>"
+                },
+                "front": {
+                  "type": "fullimage",
+                  "media": {
+                    "image": {
+                      "key": "rise/courses/eNKXikLLdWhwRSOse9sBHdI6HWL-uxK-/VON-SquQDjc-9ROL-Chard%2520Aromas.png",
+                      "type": "image",
+                      "crushedKey": "2s6RVPIpvkjeFeoU_lu9pLNE-cU1ITubV.png",
+                      "originalUrl": "Chard Aromas.png",
+                      "useCrushedKey": true
+                    }
+                  },
+                  "description": "Front of card"
+                }
+              },
+              {
+                "id": "ckdgjxbzq00cb3667jr1glp7c",
+                "back": {
+                  "media": {
+                    "image": {
+                      "key": "assets/rise/assets/block-defaults/mountains.jpg",
+                      "src": "KgcE5g5POqT5UC0c_mountains.jpg",
+                      "type": "image",
+                      "thumbnail": "https://articulateusercontent.com/assets/rise/assets/block-defaults/mountains_thumb.jpg",
+                      "originalUrl": "mountains.jpg"
+                    }
+                  },
+                  "description": "<p>长相思</p><p>产区：波尔多产区、卢瓦尔河谷产区、朗格多克产区、西南产区<br>香气：黄杨木、花香、醋栗、葡萄柚、柠檬、蜜桃、菠萝、荔枝</p>"
+                },
+                "front": {
+                  "type": "fullimage",
+                  "media": {
+                    "image": {
+                      "key": "rise/courses/eNKXikLLdWhwRSOse9sBHdI6HWL-uxK-/1O4sOw_F8cDeWTRS-Sauv%2520Blanc%2520Aromas.png",
+                      "type": "image",
+                      "crushedKey": "b9Y6PKzyvknLHWDA_rOwhPx4qm4ggs27n.png",
+                      "originalUrl": "Sauv Blanc Aromas.png",
+                      "useCrushedKey": true
+                    }
+                  },
+                  "description": "Front of card"
+                },
+                "isNewlyInserted": true
+              }
+            ],
+            "family": "flashcard",
+            "variant": "flashcard",
+            "settings": {
+              "paddingTop": 3,
+              "paddingBottom": 3,
+              "backgroundColor": "",
+              "entranceAnimation": true
+            }
+          },
+          {
+            "id": "ckdgjygk700ce3667g4zh908z",
+            "type": "text",
+            "items": [
+              {
+                "id": "ckdg8cb2800243667oo4fs0jb",
+                "heading": "<strong>Heading</strong>",
+                "paragraph": "<p>在调酒大师酿造圣雷米白兰地的过程中，丰富的香气带来了出色的口感。 &nbsp;</p>"
+              }
+            ],
+            "media": {},
+            "family": "text",
+            "variant": "paragraph",
+            "settings": {
+              "paddingTop": 3,
+              "paddingBottom": 3,
+              "backgroundColor": "",
+              "entranceAnimation": true
+            }
+          },
+          {
+            "id": "ckgr2s3kr003a36697yvatrvk",
+            "type": "text",
+            "items": [
+              {
+                "id": "ckgr2f9i400233669epfe0s6s",
+                "heading": "<p><strong>蒸馏</strong></p>"
+              }
+            ],
+            "family": "text",
+            "variant": "heading",
+            "settings": {
+              "paddingTop": 3,
+              "paddingBottom": 0,
+              "backgroundColor": "",
+              "entranceAnimation": true
+            }
+          },
+          {
+            "id": "ckgr2ruhl00393669b4rsmes5",
+            "type": "image",
+            "items": [
+              {
+                "id": "ckdg8cb29002g3667eh0b3ww8",
+                "media": {
+                  "image": {
+                    "key": "rise/courses/eNKXikLLdWhwRSOse9sBHdI6HWL-uxK-/8YUvSjymTtTTefEa-Stills.png",
+                    "type": "image",
+                    "crushedKey": "L142opzDuFEHnpqX_x_3r1k9RHbwGB9JY.jpg",
+                    "originalUrl": "Stills.png",
+                    "useCrushedKey": true
+                  }
+                },
+                "caption": "",
+                "paragraph": ""
+              }
+            ],
+            "family": "image",
+            "variant": "hero",
+            "settings": {
+              "opacity": 0.2,
+              "paddingTop": 3,
+              "zoomOnClick": false,
+              "opacityColor": "#000000",
+              "paddingBottom": 3,
+              "backgroundColor": "",
+              "entranceAnimation": true
+            }
+          },
+          {
+            "id": "ckdgk02if00cf3667hs1gaqe7",
+            "type": "text",
+            "items": [
+              {
+                "id": "ckdg8cb2800243667oo4fs0jb",
+                "heading": "<p><strong>蒸馏&nbsp;</strong></p>",
+                "paragraph": "<p>我们的生命之水 100% 在法国蒸馏，其中大部分时间都在葡萄酒的出产地蒸馏。在法国蒸馏——靠近原产地以确保最佳品质，并按照我们的严格标准进行蒸馏。</p><p>然后，只有在塞西尔·鲁多认定合适的情况下，其中一部分才会在连续式铜柱蒸馏器中进行二次蒸馏。   如果一款酒在香气或口感上过于浓烈，则会对其进行二次蒸馏，使其更加清淡、纯正及柔和，进一步凸显果香和花香。 &nbsp;</p><p>我们的风格以优雅复杂的生命之水为基调，甜而不涩，通过调配实现口感的平衡。</p><p>以下图表展示了蒸馏的概况。&nbsp;<strong>点击蒸馏步骤以进一步了解蒸馏过程：</strong></p>"
+              }
+            ],
+            "family": "text",
+            "variant": "paragraph",
+            "settings": {
+              "paddingTop": 3,
+              "paddingBottom": 3,
+              "backgroundColor": "",
+              "entranceAnimation": true
+            }
+          },
+          {
+            "id": "ckdgk6yho00cj36675knrwyr6",
+            "type": "interactive",
+            "items": [
+              {
+                "x": "61.33275026910656",
+                "y": "13.858634570979014",
+                "id": "ckdg8cb28001f3667zn5edtlu",
+                "icon": "17",
+                "title": "注入葡萄酒",
+                "isActive": false,
+                "description": "<p>将葡萄酒注入蒸馏器中。</p>"
+              },
+              {
+                "x": "80.83961248654468",
+                "y": "81.99930522917221",
+                "id": "ckdgkto3k00cx3667xj8kb20d",
+                "icon": "25",
+                "title": "葡萄蒸馏酒接收器",
+                "hasMedia": false,
+                "isActive": false,
+                "description": "<p>蒸馏至 82% 以上的酒精度，葡萄蒸馏酒（生命之水）被收集到接收器中。&nbsp;</p>",
+                "isNewlyInserted": true
+              },
+              {
+                "x": "85.89881593110871",
+                "y": "42.50362711240983",
+                "id": "ckdgks1uw00cv3667nwp7t6z5",
+                "icon": "24",
+                "title": "冷凝器",
+                "hasMedia": false,
+                "isActive": false,
+                "description": "<p>蒸汽流经一系列冷却水管，渐渐凝结成液体。</p>"
+              },
+              {
+                "x": "75.34983853606028",
+                "y": "25.763737049676116",
+                "id": "ckdgkqx8e00ct36674dtyv0gw",
+                "icon": "23",
+                "title": "流出",
+                "hasMedia": false,
+                "isActive": false,
+                "description": "<p>蒸汽通过精馏器升腾之后，将通过顶部管道流出。</p>"
+              },
+              {
+                "x": "64.90850376749194",
+                "y": "84.48413266035924",
+                "id": "ckdgkp1xr00cr366713uy704u",
+                "icon": "22",
+                "title": "精馏柱",
+                "hasMedia": false,
+                "isActive": false,
+                "description": "<p>进一步蒸馏可对产品进行提纯，增加生命之水的酒精浓度。</p>"
+              },
+              {
+                "x": "49.51560818083961",
+                "y": "51.52747409935223",
+                "id": "ckdgkjhoh00cp36673724wusa",
+                "icon": "21",
+                "title": "酒液流向精馏器",
+                "hasMedia": false,
+                "isActive": false,
+                "description": "<p>在蒸馏柱中完成初次蒸馏后，蒸汽将流向精馏器。</p>"
+              },
+              {
+                "x": "41.550053821313234",
+                "y": "48.91186627705009",
+                "id": "ckdgkhzhe00cn3667ica5h66r",
+                "icon": "20",
+                "title": "蒸汽升腾",
+                "hasMedia": false,
+                "isActive": false,
+                "description": "<p>当酒液与蒸汽相互作用时，热量使葡萄酒蒸发，并迫使酒精和其他易挥发的分子上升至蒸馏器上端。（酒液中的水和固体颗粒回落至蒸馏器底部）。</p>"
+              },
+              {
+                "x": "37.35199138858988",
+                "y": "82.52242679363263",
+                "id": "ckdgkd60l00cl3667doqz342z",
+                "icon": "19",
+                "title": "放出蒸汽",
+                "hasMedia": false,
+                "isActive": false,
+                "description": "<p>蒸汽被灌入柱中。</p>"
+              },
+              {
+                "x": "36.92814854682454",
+                "y": "20.405827901179066",
+                "id": "ckdg8cb28001g3667mnqun545",
+                "icon": "18",
+                "title": "蒸馏柱",
+                "isActive": false,
+                "description": "<p>当蒸汽流经凹形挡板时，将加热后的葡萄酒注入柱子顶部，不让蒸汽与葡萄酒直接混合。葡萄酒中的酒精与其他沸点较低的液体蒸发。蒸汽升腾，低酒精度液体回落。&nbsp;</p>"
+              }
+            ],
+            "media": {
+              "image": {
+                "key": "rise/courses/eNKXikLLdWhwRSOse9sBHdI6HWL-uxK-/93g0oR4FwU8wQIVt-Distillation%2520Process%2520Diagram.png",
+                "type": "image",
+                "crushedKey": "NjRdDXjVj7c3Y4HE_qOVYYGdEQgjmFzEB.jpg",
+                "originalUrl": "Distillation Process Diagram.png",
+                "useCrushedKey": true
+              }
+            },
+            "family": "interactive-fullscreen",
+            "variant": "labeledgraphic",
+            "settings": {
+              "mediaWidth": "1",
+              "paddingTop": 3,
+              "zoomOnClick": true,
+              "paddingBottom": 3,
+              "backgroundColor": "#ffffff",
+              "entranceAnimation": true
+            }
+          },
+          {
+            "id": "ckdgkwp0900cz3667slhyh3mk",
+            "type": "text",
+            "items": [
+              {
+                "id": "ckdg8cb2800243667oo4fs0jb",
+                "heading": "<strong>Heading</strong>",
+                "paragraph": "<p>在圣雷米，蒸馏过程专注于酿造口感纯净且均衡的烈酒。</p>"
+              }
+            ],
+            "media": {},
+            "family": "text",
+            "variant": "paragraph",
+            "settings": {
+              "paddingTop": 3,
+              "paddingBottom": 3,
+              "backgroundColor": "",
+              "entranceAnimation": true
+            }
+          },
+          {
+            "id": "ckdgl0u9200df3667v0uswxo6",
+            "type": "text",
+            "items": [
+              {
+                "id": "ckdg8cb2800243667oo4fs0jb",
+                "heading": "<p><strong>圣雷米葡萄、葡萄酒和蒸馏总结</strong></p>",
+                "paragraph": "<p>回顾本章节的要点。</p>"
+              }
+            ],
+            "family": "text",
+            "variant": "heading paragraph",
+            "settings": {
+              "paddingTop": 3,
+              "paddingBottom": 3,
+              "backgroundColor": "",
+              "entranceAnimation": true
+            }
+          },
+          {
+            "id": "ckdgkznj100d436670bb3agrl",
+            "type": "list",
+            "items": [
+              {
+                "id": "ckdg8cb29002d36670qhxtlpq",
+                "paragraph": "<p>圣雷米刻意选择种类广泛的法国风土和葡萄，以确保白兰地的香气复杂多样。</p>"
+              },
+              {
+                "id": "ckdg8cb29002e36672xtq823f",
+                "paragraph": "<p>葡萄酒和蒸馏液仅在法国生产，以确保它们符合我们严格的质量标准。</p>"
+              },
+              {
+                "id": "ckdg8cb29002f36671auruzf2",
+                "paragraph": "<p>蒸馏是一项特定流程，旨在确保烈酒口感纯净且均衡。</p>"
+              }
+            ],
+            "media": {},
+            "family": "list",
+            "variant": "checkboxes",
+            "settings": {
+              "paddingTop": 3,
+              "paddingBottom": 3,
+              "backgroundColor": "",
+              "entranceAnimation": true
+            }
+          }
+        ],
+        "media": {},
+        "piles": [],
+        "settings": {},
+        "duplicatedFromId": "",
+        "deleted": false,
+        "createdAt": "2020-08-04T22:00:33.166Z",
+        "updatedAt": "2020-12-11T22:36:41.649Z",
+        "lastUpdatedBy": "auth0|5b3a656445d8a648a1510a8b",
+        "ready": true,
+        "position": null,
+        "transferredAt": null,
+        "duration": 7,
+        "isPartnerContentAuthor": null,
+        "headerImage": {}
+      },
+      {
+        "id": "ip8zw9s_ts9gXkJmMXDb7PHWrXaWspVp",
+        "originalId": null,
+        "author": "auth0|5b3a656445d8a648a1510a8b",
+        "selectedAuthorId": "auth0|5b3a656445d8a648a1510a8b",
+        "courseId": "eNKXikLLdWhwRSOse9sBHdI6HWL-uxK-",
+        "title": "圣雷米的技艺：在法国进行调配、熟成和装瓶的法国葡萄酒",
+        "description": "",
+        "type": "blocks",
+        "icon": "Article",
+        "items": [
+          {
+            "id": "ckdhoilvs00303667jmdogj66",
+            "type": "text",
+            "items": [
+              {
+                "id": "ckdho5f0x00243667iha7pppy",
+                "heading": "<p><strong>熟成</strong></p>",
+                "paragraph": "<p>圣雷米的生命之水在橡木桶中熟成，经岁月沉淀，呈现琥珀色泽，酒体饱满，口感圆润，果香与花香四溢，略带辛香。</p>"
+              }
+            ],
+            "family": "text",
+            "variant": "heading paragraph",
+            "settings": {
+              "paddingTop": 3,
+              "paddingBottom": 3,
+              "backgroundColor": "",
+              "entranceAnimation": true
+            }
+          },
+          {
+            "id": "cke33t95x004u3667vkerfvd2",
+            "type": "image",
+            "items": [
+              {
+                "id": "cke32e2ii002i366724wcql1m",
+                "media": {
+                  "image": {
+                    "key": "rise/courses/eNKXikLLdWhwRSOse9sBHdI6HWL-uxK-/XyWKqIDWDRAncQkV-futs%2520empiles.jpg",
+                    "type": "image",
+                    "crushedKey": "EMfPAoQk0yul7qa3_K8KgoKdPIDrXs8gn.jpg",
+                    "originalUrl": "futs empiles.jpg",
+                    "useCrushedKey": true
+                  }
+                },
+                "caption": "<p>在酒桶中陈酿的圣雷米</p>",
+                "paragraph": "<p>Ageing in oak casks is the way things have always been done at St-R&eacute;my. &nbsp;Small casks provide greater contact between the spirit and the wood.</p><ul><li>A more intense spirit is created when there is greater exchange with the wood</li><li>Ageing in smaller barrels provides faster maturation while maintaining high quality</li></ul>"
+              }
+            ],
+            "family": "image",
+            "variant": "hero",
+            "settings": {
+              "opacity": 0.2,
+              "paddingTop": 3,
+              "zoomOnClick": true,
+              "opacityColor": "#000000",
+              "paddingBottom": 3,
+              "backgroundColor": "",
+              "entranceAnimation": true
+            }
+          },
+          {
+            "id": "ckdhp0f8f003d366733dopnny",
+            "type": "image",
+            "items": [
+              {
+                "id": "ckdho5f0x002g36671ypaqfnc",
+                "media": {
+                  "image": {
+                    "key": "rise/courses/eNKXikLLdWhwRSOse9sBHdI6HWL-uxK-/N9-V7khFazj_NHNh-Wide%2520vs%2520Fine.png",
+                    "type": "image",
+                    "crushedKey": "YcMoUQohsIPOM01Y_Pp3kzyuSjfhCTogU.png",
+                    "originalUrl": "Wide vs Fine.png",
+                    "useCrushedKey": true
+                  }
+                },
+                "caption": "",
+                "paragraph": "<p><em>夏</em> 栎纹理较粗，富有特色，单宁含量高，更具陈酿潜力。细纹理橡木带来甘甜气息，加快熟成。 <strong>点击图片查看详情。</strong></p>"
+              }
+            ],
+            "media": {},
+            "family": "image",
+            "variant": "text aside",
+            "settings": {
+              "opacity": 0.2,
+              "paddingTop": 3,
+              "zoomOnClick": true,
+              "opacityColor": "#000000",
+              "paddingBottom": 3,
+              "backgroundColor": "",
+              "entranceAnimation": true
+            }
+          },
+          {
+            "id": "ckdhpyklz003i3667s3l3v2ay",
+            "type": "image",
+            "items": [
+              {
+                "id": "ckdho5f0x002g36671ypaqfnc",
+                "media": {
+                  "image": {
+                    "key": "rise/courses/eNKXikLLdWhwRSOse9sBHdI6HWL-uxK-/r1WuHyyeZQfucRgw-Toasting.png",
+                    "type": "image",
+                    "crushedKey": "fKvuK4JXDhXNOoG4_jI7vZPmU-XXpQNUb.jpg",
+                    "originalUrl": "Toasting.png",
+                    "useCrushedKey": true
+                  }
+                },
+                "caption": "",
+                "paragraph": "<p>圣雷米对酒桶进行了中度烘烤，平衡了焦糖、香草和烟熏/辛辣的气息。</p>"
+              },
+              {
+                "id": "ckdhpz3jd003m36675jmd16vn",
+                "media": {
+                  "image": {
+                    "key": "rise/courses/eNKXikLLdWhwRSOse9sBHdI6HWL-uxK-/7ZpRZgEOBy8JCF2Q-Toasting%2520flavors.png",
+                    "type": "image",
+                    "crushedKey": "z0kV_I4Z7g6azPlR_9lkajDCHafr0clS9.png",
+                    "originalUrl": "Toasting flavors.png",
+                    "useCrushedKey": true
+                  }
+                },
+                "caption": "",
+                "isNewlyInserted": true
+              }
+            ],
+            "media": {},
+            "family": "image",
+            "variant": "text aside",
+            "settings": {
+              "opacity": 0.2,
+              "paddingTop": 3,
+              "zoomOnClick": true,
+              "opacityColor": "#000000",
+              "imagePosition": "right",
+              "paddingBottom": 3,
+              "backgroundColor": "",
+              "entranceAnimation": true
+            }
+          },
+          {
+            "id": "cke340vt50031365yw231qaf1",
+            "type": "text",
+            "items": [
+              {
+                "id": "cke33ynls0026365yv6lmk2cy",
+                "heading": "<p><strong>调配</strong></p>"
+              }
+            ],
+            "family": "text",
+            "variant": "heading",
+            "settings": {
+              "paddingTop": 3,
+              "paddingBottom": 0,
+              "backgroundColor": "",
+              "entranceAnimation": true
+            }
+          },
+          {
+            "id": "ckdhqgbr9003v36679qjrtakc",
+            "type": "image",
+            "items": [
+              {
+                "id": "ckdho5f0x002g36671ypaqfnc",
+                "media": {
+                  "image": {
+                    "key": "rise/courses/eNKXikLLdWhwRSOse9sBHdI6HWL-uxK-/2QNzm6RHf-EsxgcX-Blending.png",
+                    "type": "image",
+                    "crushedKey": "NDafDyDa4J2zMEJt_0RedfoTkHp0xn6EL.png",
+                    "originalUrl": "Blending.png",
+                    "useCrushedKey": true
+                  }
+                },
+                "caption": "",
+                "paragraph": "<p>最后一步调配为酒液锦上添花。</p><p>调酒大师塞西尔·鲁多精心呵护、甄选、平衡并精确把握生命之水的比例，运用她的魔力调配出圣雷米标志性的风格、口感和顺滑度，使其经久不衰。</p>"
+              }
+            ],
+            "media": {},
+            "family": "image",
+            "variant": "text aside",
+            "settings": {
+              "opacity": 0.2,
+              "paddingTop": 3,
+              "zoomOnClick": true,
+              "opacityColor": "#000000",
+              "paddingBottom": 3,
+              "backgroundColor": "",
+              "entranceAnimation": true
+            }
+          },
+          {
+            "id": "cke341vrd0032365ymngcikhs",
+            "type": "text",
+            "items": [
+              {
+                "id": "cke33ynls0026365yv6lmk2cy",
+                "heading": "<p><strong>装瓶</strong></p>"
+              }
+            ],
+            "family": "text",
+            "variant": "heading",
+            "settings": {
+              "paddingTop": 3,
+              "paddingBottom": 0,
+              "backgroundColor": "",
+              "entranceAnimation": true
+            }
+          },
+          {
+            "id": "ckdhqi0e7003y3667hxs14mc0",
+            "type": "image",
+            "items": [
+              {
+                "id": "ckdho5f0x002g36671ypaqfnc",
+                "media": {
+                  "image": {
+                    "key": "rise/courses/eNKXikLLdWhwRSOse9sBHdI6HWL-uxK-/TEGeBjtE-9fjiue4-Bottling%2520line.png",
+                    "type": "image",
+                    "crushedKey": "Mu-mCg5ntW17bBnf_n7HHhsla2o8SIx7s.jpg",
+                    "originalUrl": "Bottling line.png",
+                    "useCrushedKey": true
+                  }
+                },
+                "caption": "",
+                "paragraph": "<p>100% 在法国装瓶！</p><p>调配完成后，圣雷米在卢瓦尔河谷进行装瓶，并运往世界各地。</p>"
+              }
+            ],
+            "media": {},
+            "family": "image",
+            "variant": "text aside",
+            "settings": {
+              "opacity": 0.2,
+              "paddingTop": 3,
+              "zoomOnClick": true,
+              "opacityColor": "#000000",
+              "imagePosition": "right",
+              "paddingBottom": 3,
+              "backgroundColor": "",
+              "entranceAnimation": true
+            }
+          },
+          {
+            "id": "ckdhqk4qw0044366782cmf51w",
+            "type": "text",
+            "items": [
+              {
+                "id": "ckdho5f0x00243667iha7pppy",
+                "heading": "<p><strong><strong>圣雷米的技艺总结</strong></strong></p>",
+                "paragraph": "<p>回顾本章节的要点。</p>"
+              }
+            ],
+            "family": "text",
+            "variant": "heading",
+            "settings": {
+              "paddingTop": 3,
+              "paddingBottom": 3,
+              "backgroundColor": "",
+              "entranceAnimation": true
+            }
+          },
+          {
+            "id": "cke8o5c0z003h36677ar5z7ds",
+            "type": "image",
+            "items": [
+              {
+                "id": "cke8nzewb002g3667impwb2fb",
+                "media": {
+                  "image": {
+                    "key": "rise/courses/eNKXikLLdWhwRSOse9sBHdI6HWL-uxK-/HJn2mc2g9Nq6H2Z8-St%2520Remy%2520Production%2520Process.png",
+                    "type": "image",
+                    "crushedKey": "2qT30X9L8cmHqbqE_Gmlp4Znzb7ULPkUP.png",
+                    "originalUrl": "St Remy Production Process.png",
+                    "useCrushedKey": true
+                  }
+                },
+                "caption": "",
+                "paragraph": ""
+              }
+            ],
+            "family": "image",
+            "variant": "hero",
+            "settings": {
+              "opacity": 0.2,
+              "paddingTop": 3,
+              "zoomOnClick": true,
+              "opacityColor": "#000000",
+              "paddingBottom": 3,
+              "backgroundColor": "",
+              "entranceAnimation": true
+            }
+          },
+          {
+            "id": "cke8o5236003f3667cxzlq0aa",
+            "type": "text",
+            "items": [
+              {
+                "id": "cke8o5236003g3667yqe5c7ka",
+                "heading": "<p><strong><strong>St-R&eacute;my Maturation &amp; Blending Summary</strong></strong></p>",
+                "paragraph": "<p>Review the key points from this chapter.</p>"
+              }
+            ],
+            "family": "text",
+            "variant": "paragraph",
+            "settings": {
+              "paddingTop": 3,
+              "paddingBottom": 3,
+              "backgroundColor": "",
+              "entranceAnimation": true
+            }
+          },
+          {
+            "id": "ckdhqkpsn0045366723rdmyke",
+            "type": "list",
+            "items": [
+              {
+                "id": "ckdho5f0x002d36677di7axru",
+                "paragraph": "<p>圣雷米在小型夏栎橡木桶中熟成</p>"
+              },
+              {
+                "id": "ckdho5f0x002e3667va059erf",
+                "paragraph": "<p>酒桶经过中度烘烤，以高温最大限度地激发香草的甘甜气息</p>"
+              },
+              {
+                "id": "ckdho5f0x002f3667nziqfekj",
+                "paragraph": "<p>调配至关重要，我们的调酒大师通过这一步塑就圣雷米经久不衰的品牌格调</p>"
+              }
+            ],
+            "media": {},
+            "family": "list",
+            "variant": "checkboxes",
+            "settings": {
+              "paddingTop": 3,
+              "paddingBottom": 3,
+              "backgroundColor": "",
+              "entranceAnimation": true
+            }
+          }
+        ],
+        "media": {},
+        "piles": [],
+        "settings": {},
+        "duplicatedFromId": "",
+        "deleted": false,
+        "createdAt": "2020-08-04T23:34:52.493Z",
+        "updatedAt": "2020-10-26T21:54:38.886Z",
+        "lastUpdatedBy": "auth0|5b3a656445d8a648a1510a8b",
+        "ready": true,
+        "position": null,
+        "transferredAt": null,
+        "duration": 2,
+        "isPartnerContentAuthor": null,
+        "headerImage": {}
+      },
+      {
+        "id": "KoSqEZexmk61Lc3yObPFPdj4CQnX7KuV",
+        "originalId": null,
+        "author": "auth0|5b3a656445d8a648a1510a8b",
+        "selectedAuthorId": "auth0|5b3a656445d8a648a1510a8b",
+        "courseId": "eNKXikLLdWhwRSOse9sBHdI6HWL-uxK-",
+        "title": "圣雷米产品系列",
+        "description": "",
+        "type": "blocks",
+        "icon": "Article",
+        "items": [
+          {
+            "id": "ckdhrjluk004b3667156h45tw",
+            "type": "text",
+            "items": [
+              {
+                "id": "ckdho5f0x00213667s66rpmip",
+                "paragraph": "<p>圣雷米产品系列可分为两大类：核心系列和限量版。请注意，限量版并非在所有市场有售。&nbsp;</p><p><strong>点击各张图片查看详情：</strong></p>"
+              }
+            ],
+            "media": {},
+            "family": "text",
+            "variant": "paragraph",
+            "settings": {
+              "paddingTop": 3,
+              "paddingBottom": 3,
+              "backgroundColor": "",
+              "entranceAnimation": true
+            }
+          },
+          {
+            "id": "ckdhrj3ae00493667aquctevc",
+            "type": "image",
+            "items": [
+              {
+                "id": "ckdho5f0x002g36671ypaqfnc",
+                "media": {
+                  "image": {
+                    "key": "rise/courses/eNKXikLLdWhwRSOse9sBHdI6HWL-uxK-/bltxYTAu-Dzjr97w-core%2520range%2520828.jpg",
+                    "type": "image",
+                    "crushedKey": "bqGhNN9ewuvCZYYJ_851vAFm70fO2B4oG.jpg",
+                    "originalUrl": "core range 828.jpg",
+                    "useCrushedKey": true
+                  }
+                },
+                "caption": "",
+                "paragraph": ""
+              },
+              {
+                "id": "cke34n3zn0038365yjxkgejxm",
+                "media": {
+                  "image": {
+                    "key": "rise/courses/eNKXikLLdWhwRSOse9sBHdI6HWL-uxK-/qGepsQsnHY1AaUpk-st%2520remy%2520CFC%2520sherry%2520duo%252070%2520cl.jpg",
+                    "type": "image",
+                    "crushedKey": "V5k8_VyFIRfMu_cY_tSYJHrB5D3IHQvUU.jpg",
+                    "originalUrl": "st remy CFC sherry duo 70 cl.jpg",
+                    "useCrushedKey": true
+                  }
+                },
+                "caption": "",
+                "isNewlyInserted": true
+              }
+            ],
+            "media": {},
+            "family": "gallery",
+            "variant": "two column",
+            "settings": {
+              "opacity": 0.2,
+              "paddingTop": 3,
+              "zoomOnClick": true,
+              "opacityColor": "#000000",
+              "paddingBottom": 3,
+              "backgroundColor": "",
+              "entranceAnimation": true
+            }
+          },
+          {
+            "id": "ckdyz6rhj003r3667avvmep2k",
+            "type": "text",
+            "items": [
+              {
+                "id": "ckdyydsme00213667o2jize3b",
+                "paragraph": "<p>向下滚动以详细了解当前产品系列：</p>"
+              }
+            ],
+            "family": "text",
+            "variant": "paragraph",
+            "settings": {
+              "paddingTop": 3,
+              "paddingBottom": 3,
+              "backgroundColor": "",
+              "entranceAnimation": true
+            }
+          },
+          {
+            "id": "ckdhrkmeb004c36670wm9pvmf",
+            "type": "text",
+            "items": [
+              {
+                "id": "ckdho5f0x00243667iha7pppy",
+                "heading": "<p><strong>圣雷米 V.S.O.P——标志性的法国白兰地</strong></p>",
+                "paragraph": ""
+              }
+            ],
+            "media": {},
+            "family": "text",
+            "variant": "heading",
+            "settings": {
+              "paddingTop": 3,
+              "paddingBottom": 3,
+              "backgroundColor": "",
+              "entranceAnimation": true
+            }
+          },
+          {
+            "id": "ckdhruqv000513667q5wxb8ai",
+            "type": "image",
+            "items": [
+              {
+                "id": "ckdho5f0x002g36671ypaqfnc",
+                "media": {
+                  "image": {
+                    "key": "rise/courses/eNKXikLLdWhwRSOse9sBHdI6HWL-uxK-/d2AL0IAMaiG9MJuF-VSOP.png",
+                    "type": "image",
+                    "crushedKey": "wqzwSpPuKwVjVbXE_FTu-ghddF4J57XjN.jpg",
+                    "originalUrl": "VSOP.png",
+                    "useCrushedKey": true
+                  }
+                },
+                "caption": "",
+                "paragraph": "<p>圣雷米 V.S.O.P 体现了圣雷米标志性的历史韵味。它源自一份原始配方，正是那份配方让圣雷米享誉全球。</p><p><em>体验纯正风味的不二之选。</em></p><p>圣雷米 V.S.O.P 散发出新鲜采摘的小红莓味道，伴随着橡木的甜蜜香草气息。口感圆润均衡，易于入口。</p><p>这款烈酒酒香清淡微妙，无论是纯饮、加冰还是与其他酒混合饮用都甚为相宜。</p>"
+              }
+            ],
+            "media": {},
+            "family": "image",
+            "variant": "text aside",
+            "settings": {
+              "opacity": 0.2,
+              "paddingTop": 3,
+              "zoomOnClick": true,
+              "opacityColor": "#000000",
+              "paddingBottom": 3,
+              "backgroundColor": "",
+              "entranceAnimation": true
+            }
+          },
+          {
+            "id": "ckdhrnqah004f36670fglpi5a",
+            "type": "text",
+            "items": [
+              {
+                "id": "ckdho5f0x00243667iha7pppy",
+                "heading": "<p><strong>圣雷米 V.S.O.P 品鉴笔记</strong></p>",
+                "paragraph": "<p>When we show up to the present moment with all of our senses, we invite the world\n    to fill us with joy. The pains of the past are behind us. The future has yet to unfold. But\n    the now is full of beauty simply waiting for our attention.</p>"
+              },
+              {
+                "id": 1,
+                "paragraph": ""
+              }
+            ],
+            "media": {},
+            "family": "text",
+            "variant": "heading",
+            "settings": {
+              "paddingTop": 3,
+              "paddingBottom": 3,
+              "backgroundColor": "",
+              "entranceAnimation": true
+            }
+          },
+          {
+            "id": "ckdhron43004g3667vkhqg3ta",
+            "type": "image",
+            "items": [
+              {
+                "id": "ckdho5f0x002g36671ypaqfnc",
+                "media": {
+                  "image": {
+                    "key": "rise/courses/eNKXikLLdWhwRSOse9sBHdI6HWL-uxK-/Zr5ePgUPaXS4ZhUx-VSOP%2520profile.png",
+                    "type": "image",
+                    "crushedKey": "0vNpwk1YZtaxitpz_H7JWMIu77_g50HVf.png",
+                    "originalUrl": "VSOP profile.png",
+                    "useCrushedKey": true
+                  }
+                },
+                "caption": "",
+                "paragraph": "<p>外观：琥珀黄，闪耀金色光芒。</p><p>香气：樱桃、醋栗和野生草莓的馥郁果香迅速覆盖了酒精的气息。花香巧妙地融合橡木的木质与香草气息。总体给人愉悦、和谐、顺滑的印象。</p><p>口感：圆润顺滑，果香与木香融入散发着香草气息的橡木余味之中。</p>"
+              }
+            ],
+            "media": {},
+            "family": "image",
+            "variant": "text aside",
+            "settings": {
+              "opacity": 0.2,
+              "paddingTop": 3,
+              "zoomOnClick": true,
+              "opacityColor": "#000000",
+              "paddingBottom": 3,
+              "backgroundColor": "",
+              "entranceAnimation": true
+            }
+          },
+          {
+            "id": "ckdhrqkxd004i3667di157qrp",
+            "type": "text",
+            "items": [
+              {
+                "id": "ckdho5f0x00243667iha7pppy",
+                "heading": "<p><strong>如何饮用圣雷米 V.S.O.P</strong></p>",
+                "paragraph": "<p>在长饮玻璃杯底部加冰，搭配可乐、姜汁啤酒、干姜水或浓苹果汁饮用。再加入少许新鲜青柠汁，风味更佳！</p><p>冬季可在咖啡或热巧克力中加入圣雷米 V.S.O.P。</p>"
+              }
+            ],
+            "media": {},
+            "family": "text",
+            "variant": "heading paragraph",
+            "settings": {
+              "paddingTop": 3,
+              "paddingBottom": 3,
+              "backgroundColor": "",
+              "entranceAnimation": true
+            }
+          },
+          {
+            "id": "ckeen4mmn003p3667xciw3lzw",
+            "type": "text",
+            "items": [
+              {
+                "id": "ckeemm3zb00273667cxo66dd9",
+                "heading": "<p><strong>探索美味的鸡尾酒配方：</strong></p>"
+              }
+            ],
+            "media": {},
+            "family": "text",
+            "variant": "subheading",
+            "settings": {
+              "paddingTop": 3,
+              "paddingBottom": 0,
+              "backgroundColor": "",
+              "entranceAnimation": true
+            }
+          },
+          {
+            "id": "cke8pmku9003u366795xpajy0",
+            "type": "interactive",
+            "items": [
+              {
+                "id": "cke8nzewa000k3667ewfzzwy2",
+                "media": {
+                  "video": {
+                    "key": "qweAdc85wx0YbBS9_transcoded-7-OXKPA6fWlHXYAL-St-Remy-Video-StREMY_French_Cola_Master_ENG_1080p-OZ-4.mp4",
+                    "url": "transcoded-7-OXKPA6fWlHXYAL-St-Remy-Video-StREMY_French_Cola_Master_ENG_1080p-OZ-4.mp4",
+                    "type": "video",
+                    "poster": "W8ssQsAaTUIX4si1_transcoded-7-OXKPA6fWlHXYAL-St-Remy-Video-StREMY_French_Cola_Master_ENG_1080p-OZ-4-00001.png",
+                    "duration": 38,
+                    "inputKey": "rise%2Fcourses%2FeNKXikLLdWhwRSOse9sBHdI6HWL-uxK-%2F7-OXKPA6fWlHXYAL-St-Remy-Video-StREMY_French_Cola_Master_ENG_1080p-OZ-4.mp4",
+                    "thumbnail": "https://images.articulate.com/f:jpg,b:fff,w:100,h:100,s:cover/rise/courses/eNKXikLLdWhwRSOse9sBHdI6HWL-uxK-/transcoded-7-OXKPA6fWlHXYAL-St-Remy-Video-StREMY_French_Cola_Master_ENG_1080p-OZ-4-00001.png",
+                    "originalUrl": "St-Remy-Video-StREMY_French_Cola_Master_ENG_1080p-OZ-4.mp4",
+                    "transcodeId": "1598646874691-sfhgvz",
+                    "existingMediaType": "image",
+                    "hasRemovableMedia": true
+                  }
+                },
+                "title": "圣雷米法式可乐",
+                "description": "<p>1.5 盎司圣雷米 V.S.O.P<br>3 盎司可乐<br>2 滴苦精<br>橙片</p><p>在装满冰块的平底玻璃杯中倒入圣雷米 V.S.O.P 和苦精。加满可乐，饰以橙片，用吧勺搅拌后享用。</p>"
+              },
+              {
+                "id": "cke8nzewa000l36677n51rafa",
+                "media": {
+                  "video": {
+                    "key": "HFQaBHeSxYOFdzHg_transcoded-77IrtbeTiu_-KJN4-St-Remy-Video-StREMY_French_Sangria_Master_ENG_1080p-OZ.mp4",
+                    "url": "transcoded-77IrtbeTiu_-KJN4-St-Remy-Video-StREMY_French_Sangria_Master_ENG_1080p-OZ.mp4",
+                    "type": "video",
+                    "poster": "jQhZwdSahDfGXx_Q_transcoded-77IrtbeTiu_-KJN4-St-Remy-Video-StREMY_French_Sangria_Master_ENG_1080p-OZ-00001.png",
+                    "duration": 49,
+                    "inputKey": "rise%2Fcourses%2FeNKXikLLdWhwRSOse9sBHdI6HWL-uxK-%2F77IrtbeTiu_-KJN4-St-Remy-Video-StREMY_French_Sangria_Master_ENG_1080p-OZ.mp4",
+                    "thumbnail": "https://images.articulate.com/f:jpg,b:fff,w:100,h:100,s:cover/rise/courses/eNKXikLLdWhwRSOse9sBHdI6HWL-uxK-/transcoded-77IrtbeTiu_-KJN4-St-Remy-Video-StREMY_French_Sangria_Master_ENG_1080p-OZ-00001.png",
+                    "originalUrl": "St-Remy-Video-StREMY_French_Sangria_Master_ENG_1080p-OZ.mp4",
+                    "transcodeId": "1598644443978-7jxow5",
+                    "existingMediaType": "image",
+                    "hasRemovableMedia": true
+                  }
+                },
+                "title": "圣雷米法式桑格利亚",
+                "description": "<p>17 盎司圣雷米 V.S.O.P<br>40 盎司干姜水<br>17 盎司梅洛葡萄酒<br>30 片葡萄<br>10 片橙子<br>7 盎司青柠汁<br>10 盎司红葡萄汁</p><p>将圣雷米 V.S.O.P、红葡萄汁、梅洛葡萄酒、青柠汁和干姜水倒入酒碗中。加入葡萄片和 1 根肉桂棒。用吧勺轻轻搅拌 15 秒后享用。</p><p>此为 10 人份</p>"
+              },
+              {
+                "id": "ckeen5j42003t3667hzkmz4vg",
+                "media": {
+                  "video": {
+                    "key": "1lkGz5fgWdjfTWe5_transcoded-C0sEJLpqV6AwQgPY-St-Remy-Video-St-R%C3%A9my%20White%20Sangria%20English%20OZ-3.mp4",
+                    "url": "transcoded-C0sEJLpqV6AwQgPY-St-Remy-Video-St-R%25C3%25A9my%2520White%2520Sangria%2520English%2520OZ-3.mp4",
+                    "type": "video",
+                    "poster": "_KpsKeD1pzn_o18h_transcoded-C0sEJLpqV6AwQgPY-St-Remy-Video-St-R%C3%A9my%20White%20Sangria%20English%20OZ-3-00001.png",
+                    "duration": 40,
+                    "inputKey": "rise%2Fcourses%2FeNKXikLLdWhwRSOse9sBHdI6HWL-uxK-%2FC0sEJLpqV6AwQgPY-St-Remy-Video-St-R%25C3%25A9my%2520White%2520Sangria%2520English%2520OZ-3.mp4",
+                    "thumbnail": "https://images.articulate.com/f:jpg,b:fff,w:100,h:100,s:cover/rise/courses/eNKXikLLdWhwRSOse9sBHdI6HWL-uxK-/transcoded-C0sEJLpqV6AwQgPY-St-Remy-Video-St-R%25C3%25A9my%2520White%2520Sangria%2520English%2520OZ-3-00001.png",
+                    "originalUrl": "St-Remy-Video-St-Rémy White Sangria English OZ-3.mp4",
+                    "transcodeId": "1598645155681-vb910j",
+                    "existingMediaType": "image",
+                    "hasRemovableMedia": true
+                  }
+                },
+                "title": "圣雷米白色桑格利亚",
+                "description": "<p>17 盎司圣雷米 V.S.O.P<br>40 盎司干姜水<br>17 盎司霞多丽葡萄酒<br>白葡萄片<br>7 盎司青柠汁<br>10 盎司白葡萄汁</p><p>将圣雷米 V.S.O.P、白葡萄汁、霞多丽葡萄酒、青柠汁和干姜水倒入酒瓶中。加入葡萄片。用吧勺轻轻搅拌 15 秒后享用。<br>此为 10 人份。</p>"
+              },
+              {
+                "id": "ckeen7lrn00433667irj6mz8m",
+                "media": {
+                  "image": {
+                    "key": "rise/courses/eNKXikLLdWhwRSOse9sBHdI6HWL-uxK-/an_B4e0RxcwJwAlD-VSOP%2520Coffee.png",
+                    "type": "image",
+                    "crushedKey": "jj8pannXlVeq48W8_dZeNpbF8QauPVjK0.jpg",
+                    "originalUrl": "VSOP Coffee.png",
+                    "useCrushedKey": true
+                  }
+                },
+                "title": "圣雷米白色桑格利亚法式咖啡",
+                "description": "<p>1.25 盎司圣雷米 V.S.O.P<br>0.5 盎司香草糖浆<br>1.25 盎司全脂牛奶<br>7 盎司现磨咖啡</p><p>将圣雷米 V.S.O.P、香草糖浆、全脂牛奶和热咖啡依次倒入大咖啡杯中。</p>",
+                "isNewlyInserted": true
+              }
+            ],
+            "family": "interactive",
+            "variant": "tabs",
+            "settings": {
+              "paddingTop": 3,
+              "zoomOnClick": true,
+              "paddingBottom": 3,
+              "backgroundColor": "",
+              "entranceAnimation": true
+            }
+          },
+          {
+            "id": "ckeim8dl7003c3667qz7ch45s",
+            "type": "image",
+            "items": [
+              {
+                "id": "ckeildq6f002i3667xfn6lvib",
+                "media": {
+                  "image": {
+                    "key": "rise/courses/eNKXikLLdWhwRSOse9sBHdI6HWL-uxK-/ePFp9IspzE5hZq4_-Global%2520Brand%2520Center.JPG",
+                    "type": "image",
+                    "crushedKey": "ILHTB1WqBg70n0Im_b1yCrkS6RHA7ZMn4.jpg",
+                    "originalUrl": "Global Brand Center.JPG",
+                    "useCrushedKey": true
+                  }
+                },
+                "caption": "",
+                "paragraph": "<p><strong>全球品牌中心</strong></p><p>您可以在全球品牌中心找到以上所有鸡尾酒视频、品牌图像和其他信息。</p>"
+              }
+            ],
+            "media": {},
+            "family": "image",
+            "variant": "text aside",
+            "settings": {
+              "opacity": 0.5,
+              "paddingTop": 3,
+              "zoomOnClick": true,
+              "opacityColor": "#000000",
+              "paddingBottom": 3,
+              "backgroundColor": "",
+              "entranceAnimation": true
+            }
+          },
+          {
+            "id": "ckdhrv1k500563667psyskfc9",
+            "type": "text",
+            "items": [
+              {
+                "id": "ckdhruo57004z3667blrlhwwi",
+                "heading": "<p><strong>圣雷米 X.O——高雅之选</strong></p>",
+                "paragraph": "<p>When we show up to the present moment with all of our senses, we invite the world\n    to fill us with joy. The pains of the past are behind us. The future has yet to unfold. But\n    the now is full of beauty simply waiting for our attention.</p>"
+              }
+            ],
+            "media": {},
+            "family": "text",
+            "variant": "heading",
+            "settings": {
+              "paddingTop": 3,
+              "paddingBottom": 3,
+              "backgroundColor": "",
+              "entranceAnimation": true
+            }
+          },
+          {
+            "id": "ckdhrwa2k00573667mnz7u59a",
+            "type": "image",
+            "items": [
+              {
+                "id": "ckdho5f0x002g36671ypaqfnc",
+                "media": {
+                  "image": {
+                    "key": "rise/courses/eNKXikLLdWhwRSOse9sBHdI6HWL-uxK-/6JLBnS_m3ypiT7oQ-XO%2520bottle.png",
+                    "type": "image",
+                    "crushedKey": "pVIGswcF1OM83z-__VXY8GyGrmNeDV_Iy.jpg",
+                    "originalUrl": "XO bottle.png",
+                    "useCrushedKey": true
+                  }
+                },
+                "caption": "",
+                "paragraph": "<p>圣雷米 X.O 是前任调酒大师玛蒂娜·潘的传承之作。她酿造了一款口感丰富复杂的白兰地，在秉承圣雷米风格的同时，以自己的方式演绎出法国白兰地的馥郁香气。 </p><p><em>对于精明、热爱生活的人们来说，这款酒能带来优越品味的满足感。</em></p><p>圣雷米 X.O 是一款个性鲜明的白兰地，香气复杂而口感醇厚。它风味优雅，口感圆润，余味悠长，因此备受青睐。圣雷米 X.O 风味层次分明，深受品评家和鉴赏家的关注，可纯饮或加冰享用，亦可用于调配经典鸡尾酒。</p>"
+              }
+            ],
+            "media": {},
+            "family": "image",
+            "variant": "text aside",
+            "settings": {
+              "opacity": 0.2,
+              "paddingTop": 3,
+              "zoomOnClick": true,
+              "opacityColor": "#000000",
+              "paddingBottom": 3,
+              "backgroundColor": "",
+              "entranceAnimation": true
+            }
+          },
+          {
+            "id": "ckdhrxjyr00593667pehiot0b",
+            "type": "text",
+            "items": [
+              {
+                "id": "ckdho5f0x00243667iha7pppy",
+                "heading": "<p><strong>圣雷米 X.O 品鉴笔记</strong></p>",
+                "paragraph": "<p>When we show up to the present moment with all of our senses, we invite the world\n    to fill us with joy. The pains of the past are behind us. The future has yet to unfold. But\n    the now is full of beauty simply waiting for our attention.</p>"
+              }
+            ],
+            "media": {},
+            "family": "text",
+            "variant": "heading",
+            "settings": {
+              "paddingTop": 3,
+              "paddingBottom": 3,
+              "backgroundColor": "",
+              "entranceAnimation": true
+            }
+          },
+          {
+            "id": "ckdhrxs66005a3667am2s8msg",
+            "type": "image",
+            "items": [
+              {
+                "id": "ckdho5f0x002g36671ypaqfnc",
+                "media": {
+                  "image": {
+                    "key": "rise/courses/eNKXikLLdWhwRSOse9sBHdI6HWL-uxK-/XpwKLcJaTkNJXZFp-XO%2520Profile.png",
+                    "type": "image",
+                    "crushedKey": "opVF1C5dlmQFYnKL_pO8F7PPnD0pJt_rC.png",
+                    "originalUrl": "XO Profile.png",
+                    "useCrushedKey": true
+                  }
+                },
+                "caption": "",
+                "paragraph": "<p>外观：晶莹的琥珀色，透出些许深红色。</p><p>香气：酒香醇厚，蕴含淡淡的橡木和香草气息，夹杂着成熟水果和蜂蜜的芳香。</p><p>口感：馥郁芬芳。淡淡的木香和香草味，夹杂着姜饼、糖渍杏子、枣、无花果和坚果的风味。口感略显辛辣，余味悠长。</p>"
+              }
+            ],
+            "media": {},
+            "family": "image",
+            "variant": "text aside",
+            "settings": {
+              "opacity": 0.2,
+              "paddingTop": 3,
+              "zoomOnClick": true,
+              "opacityColor": "#000000",
+              "paddingBottom": 3,
+              "backgroundColor": "",
+              "entranceAnimation": true
+            }
+          },
+          {
+            "id": "ckdhrzt4m005c36678k7hsaxy",
+            "type": "text",
+            "items": [
+              {
+                "id": "ckdho5f0x00243667iha7pppy",
+                "heading": "<p><strong><strong>如何饮用圣雷米 X.O</strong></strong></p>",
+                "paragraph": "<p>圣雷米 X.O 非常百搭，可以用于制作长饮和经典鸡尾酒！</p>"
+              }
+            ],
+            "family": "text",
+            "variant": "heading paragraph",
+            "settings": {
+              "paddingTop": 3,
+              "paddingBottom": 3,
+              "backgroundColor": "",
+              "entranceAnimation": true
+            }
+          },
+          {
+            "id": "ckeeoesm0004j3667r8wpid0e",
+            "type": "text",
+            "items": [
+              {
+                "id": "ckeemm3zb00273667cxo66dd9",
+                "heading": "<p><strong><strong>探索美味的鸡尾酒配方：</strong></strong></p>"
+              }
+            ],
+            "media": {},
+            "family": "text",
+            "variant": "subheading",
+            "settings": {
+              "paddingTop": 3,
+              "paddingBottom": 0,
+              "backgroundColor": "",
+              "entranceAnimation": true
+            }
+          },
+          {
+            "id": "cke8syxw7005d3667r5ndk1eo",
+            "type": "interactive",
+            "items": [
+              {
+                "id": "cke8syxw8005e36670fjmz4uo",
+                "media": {
+                  "video": {
+                    "key": "tj8lGhETTd0ko1d__transcoded-8JmI18lD16KJPhC4-St-Remy-Video-StREMY_Apple_and_Ginger_Master_ENG_1080p-OZ-10%20cocktails-2.mp4",
+                    "url": "transcoded-8JmI18lD16KJPhC4-St-Remy-Video-StREMY_Apple_and_Ginger_Master_ENG_1080p-OZ-10%2520cocktails-2.mp4",
+                    "type": "video",
+                    "poster": "PdS9LV5gk6Sp9O1U_transcoded-8JmI18lD16KJPhC4-St-Remy-Video-StREMY_Apple_and_Ginger_Master_ENG_1080p-OZ-10%20cocktails-2-00001.png",
+                    "duration": 40,
+                    "inputKey": "rise%2Fcourses%2FeNKXikLLdWhwRSOse9sBHdI6HWL-uxK-%2F8JmI18lD16KJPhC4-St-Remy-Video-StREMY_Apple_and_Ginger_Master_ENG_1080p-OZ-10%2520cocktails-2.mp4",
+                    "thumbnail": "https://images.articulate.com/f:jpg,b:fff,w:100,h:100,s:cover/rise/courses/eNKXikLLdWhwRSOse9sBHdI6HWL-uxK-/transcoded-8JmI18lD16KJPhC4-St-Remy-Video-StREMY_Apple_and_Ginger_Master_ENG_1080p-OZ-10%2520cocktails-2-00001.png",
+                    "originalUrl": "St-Remy-Video-StREMY_Apple_and_Ginger_Master_ENG_1080p-OZ-10 cocktails-2.mp4",
+                    "transcodeId": "1598646299182-okdq6l",
+                    "existingMediaType": "image",
+                    "hasRemovableMedia": true
+                  }
+                },
+                "title": "圣雷米苹果姜味鸡尾酒",
+                "description": "<p>1.5 盎司圣雷米 X.O<br>1.5 盎司干姜水<br>1.5 盎司苹果汁<br>1 根肉桂棒<br>0.75 盎司青柠汁</p><p>在装满冰块的平底玻璃杯中倒入圣雷米 X.O，然后加入苹果汁、青柠汁和干姜水。饰以 1 根肉桂棒，搅拌 6 秒后享用。</p>"
+              },
+              {
+                "id": "cke8syxw8005f3667zg1m1lks",
+                "media": {
+                  "video": {
+                    "key": "z4ZeaSHSauyLBEU2_transcoded-Ti-Y04mRAmSIuv48-St-Remy-Video-StREMY_Old_Fashioned_Master_ENG_1080p-OZ.mp4",
+                    "url": "transcoded-Ti-Y04mRAmSIuv48-St-Remy-Video-StREMY_Old_Fashioned_Master_ENG_1080p-OZ.mp4",
+                    "type": "video",
+                    "poster": "WeweEhmpKJUPM3zz_transcoded-Ti-Y04mRAmSIuv48-St-Remy-Video-StREMY_Old_Fashioned_Master_ENG_1080p-OZ-00001.png",
+                    "duration": 41,
+                    "inputKey": "rise%2Fcourses%2FeNKXikLLdWhwRSOse9sBHdI6HWL-uxK-%2FTi-Y04mRAmSIuv48-St-Remy-Video-StREMY_Old_Fashioned_Master_ENG_1080p-OZ.mp4",
+                    "thumbnail": "https://images.articulate.com/f:jpg,b:fff,w:100,h:100,s:cover/rise/courses/eNKXikLLdWhwRSOse9sBHdI6HWL-uxK-/transcoded-Ti-Y04mRAmSIuv48-St-Remy-Video-StREMY_Old_Fashioned_Master_ENG_1080p-OZ-00001.png",
+                    "originalUrl": "St-Remy-Video-StREMY_Old_Fashioned_Master_ENG_1080p-OZ.mp4",
+                    "transcodeId": "1598647013266-xa1eqh",
+                    "existingMediaType": "image",
+                    "hasRemovableMedia": true
+                  }
+                },
+                "title": "古典圣雷米",
+                "description": "<p>2 盎司圣雷米 X.O<br>1 块红糖<br>3 滴苦精<br>橙片<br>橙皮<br>酒渍樱桃</p><p>在古典酒杯中加入方糖和苦精。充分混合后倒入圣雷米 X.O。加入冰块，用吧勺搅拌 10 秒。揉拧橙皮并撒在饮料上，饰以橙片和酒渍樱桃。</p>"
+              },
+              {
+                "id": "cke8syxw8005g3667ytnvudfj",
+                "media": {
+                  "video": {
+                    "key": "DNg-rXrqT1dR4vfE_transcoded-RrB6MCjt0msyjaOw-St-Remy-Video-StREMY_Daiquiri_Master_ENG_1080p-OZ.mp4",
+                    "url": "transcoded-RrB6MCjt0msyjaOw-St-Remy-Video-StREMY_Daiquiri_Master_ENG_1080p-OZ.mp4",
+                    "type": "video",
+                    "poster": "bsvDa8LTChjpW-SI_transcoded-RrB6MCjt0msyjaOw-St-Remy-Video-StREMY_Daiquiri_Master_ENG_1080p-OZ-00001.png",
+                    "duration": 41,
+                    "inputKey": "rise%2Fcourses%2FeNKXikLLdWhwRSOse9sBHdI6HWL-uxK-%2FRrB6MCjt0msyjaOw-St-Remy-Video-StREMY_Daiquiri_Master_ENG_1080p-OZ.mp4",
+                    "thumbnail": "https://images.articulate.com/f:jpg,b:fff,w:100,h:100,s:cover/rise/courses/eNKXikLLdWhwRSOse9sBHdI6HWL-uxK-/transcoded-RrB6MCjt0msyjaOw-St-Remy-Video-StREMY_Daiquiri_Master_ENG_1080p-OZ-00001.png",
+                    "originalUrl": "St-Remy-Video-StREMY_Daiquiri_Master_ENG_1080p-OZ.mp4",
+                    "transcodeId": "1598647034068-e0bnyz",
+                    "existingMediaType": "image",
+                    "hasRemovableMedia": true
+                  }
+                },
+                "title": "圣雷米得其利",
+                "description": "<p>1.5 盎司圣雷米 X.O<br>0.75 盎司青柠汁<br>0.5 盎司香草糖浆<br>&nbsp; 青柠皮</p><p>将圣雷米 X.O、青柠汁和香草糖浆倒入调酒器。摇晃 10 秒，将酒液进行双重过滤，然后倒入冰镇过的马天尼杯。<br>&nbsp;饰以青柠皮。</p>"
+              },
+              {
+                "id": "cke8syxw8005h3667muaczo4c",
+                "media": {
+                  "video": {
+                    "key": "EFmgKJewBRE_epZ0_transcoded-W891U9UuFGt9uqVh-St-Remy-Video-StREMY_Banana_Bliss_Master_ENG_1080p-OZ-3.mp4",
+                    "url": "transcoded-W891U9UuFGt9uqVh-St-Remy-Video-StREMY_Banana_Bliss_Master_ENG_1080p-OZ-3.mp4",
+                    "type": "video",
+                    "poster": "R0gpAecFFdQGEbBy_transcoded-W891U9UuFGt9uqVh-St-Remy-Video-StREMY_Banana_Bliss_Master_ENG_1080p-OZ-3-00001.png",
+                    "duration": 40,
+                    "inputKey": "rise%2Fcourses%2FeNKXikLLdWhwRSOse9sBHdI6HWL-uxK-%2FW891U9UuFGt9uqVh-St-Remy-Video-StREMY_Banana_Bliss_Master_ENG_1080p-OZ-3.mp4",
+                    "thumbnail": "https://images.articulate.com/f:jpg,b:fff,w:100,h:100,s:cover/rise/courses/eNKXikLLdWhwRSOse9sBHdI6HWL-uxK-/transcoded-W891U9UuFGt9uqVh-St-Remy-Video-StREMY_Banana_Bliss_Master_ENG_1080p-OZ-3-00001.png",
+                    "originalUrl": "St-Remy-Video-StREMY_Banana_Bliss_Master_ENG_1080p-OZ-3.mp4",
+                    "transcodeId": "1598647039760-9hxpj0",
+                    "existingMediaType": "image",
+                    "hasRemovableMedia": true
+                  }
+                },
+                "title": "ST-RÉMY BANANA BLISS",
+                "description": "<p>1.25 盎司圣雷米 X.O<br>0.5 盎司香蕉甜酒</p><p>将圣雷米 X.O 和香蕉甜酒倒入装满冰块的古典酒杯中。用吧勺搅拌 10 秒后享用。</p>",
+                "isNewlyInserted": true
+              }
+            ],
+            "media": {},
+            "family": "interactive",
+            "variant": "tabs",
+            "settings": {
+              "paddingTop": 3,
+              "zoomOnClick": true,
+              "paddingBottom": 3,
+              "backgroundColor": "",
+              "entranceAnimation": true
+            }
+          },
+          {
+            "id": "ckeeofb7b004k3667cyvsb2ud",
+            "type": "interactive",
+            "items": [
+              {
+                "id": "cke8nzewa000j3667pwwp1f2b",
+                "media": {
+                  "video": {
+                    "key": "Obds1sB_M3JVSj61_transcoded-bwjW9vvlRN9pyF9C-St-Remy-Video-St-R%C3%A9my%20Thyme%20%26%20Again%20English%20Oz.mp4",
+                    "url": "transcoded-bwjW9vvlRN9pyF9C-St-Remy-Video-St-R%25C3%25A9my%2520Thyme%2520%2526%2520Again%2520English%2520Oz.mp4",
+                    "type": "video",
+                    "poster": "3f5Oxip9RqMZuAES_transcoded-bwjW9vvlRN9pyF9C-St-Remy-Video-St-R%C3%A9my%20Thyme%20%26%20Again%20English%20Oz-00001.png",
+                    "duration": 42,
+                    "inputKey": "rise%2Fcourses%2FeNKXikLLdWhwRSOse9sBHdI6HWL-uxK-%2FbwjW9vvlRN9pyF9C-St-Remy-Video-St-R%25C3%25A9my%2520Thyme%2520%2526%2520Again%2520English%2520Oz.mp4",
+                    "thumbnail": "https://images.articulate.com/f:jpg,b:fff,w:100,h:100,s:cover/rise/courses/eNKXikLLdWhwRSOse9sBHdI6HWL-uxK-/transcoded-bwjW9vvlRN9pyF9C-St-Remy-Video-St-R%25C3%25A9my%2520Thyme%2520%2526%2520Again%2520English%2520Oz-00001.png",
+                    "originalUrl": "St-Remy-Video-St-Rémy Thyme & Again English Oz.mp4",
+                    "transcodeId": "1598287635406-37bsd5",
+                    "existingMediaType": "image",
+                    "hasRemovableMedia": true
+                  }
+                },
+                "title": "圣雷米 THYME & AGAIN",
+                "description": "<p>1.74 盎司圣雷米 X.O<br>4 滴薄荷酊<br>3.5 盎司 Signature Mixers 系列草本风味可口可乐<br>熏制<br>新鲜百里香</p><p>将所有原料倒入加冰的平底玻璃杯。以烟熏制鸡尾酒和百里香，充分品尝该饮品的草本风味。<br>饰以新鲜百里香。</p>"
+              },
+              {
+                "id": "cke8nzewa000k3667ewfzzwy2",
+                "media": {
+                  "video": {
+                    "key": "d_dDwd_2Cgd61KJa_transcoded-tstGjEDzrjAuCmhe-St-Remy-Video-St-R%C3%A9my%20Paper%20Plane%20English%20Oz.mp4",
+                    "url": "transcoded-tstGjEDzrjAuCmhe-St-Remy-Video-St-R%25C3%25A9my%2520Paper%2520Plane%2520English%2520Oz.mp4",
+                    "type": "video",
+                    "poster": "25jLI0EJKVP8tCWv_transcoded-tstGjEDzrjAuCmhe-St-Remy-Video-St-R%C3%A9my%20Paper%20Plane%20English%20Oz-00001.png",
+                    "duration": 38,
+                    "inputKey": "rise%2Fcourses%2FeNKXikLLdWhwRSOse9sBHdI6HWL-uxK-%2FtstGjEDzrjAuCmhe-St-Remy-Video-St-R%25C3%25A9my%2520Paper%2520Plane%2520English%2520Oz.mp4",
+                    "thumbnail": "https://images.articulate.com/f:jpg,b:fff,w:100,h:100,s:cover/rise/courses/eNKXikLLdWhwRSOse9sBHdI6HWL-uxK-/transcoded-tstGjEDzrjAuCmhe-St-Remy-Video-St-R%25C3%25A9my%2520Paper%2520Plane%2520English%2520Oz-00001.png",
+                    "originalUrl": "St-Remy-Video-St-Rémy Paper Plane English Oz.mp4",
+                    "transcodeId": "1598288566183-0tmifm"
+                  }
+                },
+                "title": "圣雷米纸飞机",
+                "description": "<p>1 盎司圣雷米 X.O<br>1 盎司意大利苦精<br>1 盎司 Amaro 利口酒<br>1 盎司柠檬汁</p><p>将圣雷米 X.O、意大利苦精、Amaro 利口酒和柠檬汁倒入调酒器。加冰摇合，然后过滤至碟形杯中。</p>"
+              },
+              {
+                "id": "cke8nzewa000l36677n51rafa",
+                "media": {
+                  "video": {
+                    "key": "lrqH6Lfa8Ur3M4Qo_transcoded-xM4EImESWnmR0FS8-St-Remy-Video-St-R%C3%A9my%20Espresso%20Martini%20English%20OZ.mp4",
+                    "url": "transcoded-xM4EImESWnmR0FS8-St-Remy-Video-St-R%25C3%25A9my%2520Espresso%2520Martini%2520English%2520OZ.mp4",
+                    "type": "video",
+                    "poster": "SBNhVB9l0Mx6dh29_transcoded-xM4EImESWnmR0FS8-St-Remy-Video-St-R%C3%A9my%20Espresso%20Martini%20English%20OZ-00001.png",
+                    "duration": 41,
+                    "inputKey": "rise%2Fcourses%2FeNKXikLLdWhwRSOse9sBHdI6HWL-uxK-%2FxM4EImESWnmR0FS8-St-Remy-Video-St-R%25C3%25A9my%2520Espresso%2520Martini%2520English%2520OZ.mp4",
+                    "thumbnail": "https://images.articulate.com/f:jpg,b:fff,w:100,h:100,s:cover/rise/courses/eNKXikLLdWhwRSOse9sBHdI6HWL-uxK-/transcoded-xM4EImESWnmR0FS8-St-Remy-Video-St-R%25C3%25A9my%2520Espresso%2520Martini%2520English%2520OZ-00001.png",
+                    "originalUrl": "St-Remy-Video-St-Rémy Espresso Martini English OZ.mp4",
+                    "transcodeId": "1598288575931-fdcoo0"
+                  }
+                },
+                "title": "圣雷米浓缩咖啡马天尼",
+                "description": "<p>1.75 盎司圣雷米 X.O<br>1 盎司现磨浓缩咖啡</p><p>0.75 盎司咖啡利口酒<br>0.5 盎司糖浆</p><p>将圣雷米 X.O、现磨浓缩咖啡、咖啡利口酒和糖浆倒入调酒器。加冰用力摇合，然后过滤至鸡尾酒杯中。</p>"
+              },
+              {
+                "id": "cke8r659a004v36675x91kxx1",
+                "media": {
+                  "video": {
+                    "key": "iQBDApz7rm1BMp8q_transcoded-viR2shpzWbePBZky-St-Remy-Video-StREMY_Side_Car_Master_ENG_1080p-OZ-2.mp4",
+                    "url": "transcoded-viR2shpzWbePBZky-St-Remy-Video-StREMY_Side_Car_Master_ENG_1080p-OZ-2.mp4",
+                    "type": "video",
+                    "poster": "XAEiEhUzMTu2ZTb0_transcoded-viR2shpzWbePBZky-St-Remy-Video-StREMY_Side_Car_Master_ENG_1080p-OZ-2-00001.png",
+                    "duration": 41,
+                    "inputKey": "rise%2Fcourses%2FeNKXikLLdWhwRSOse9sBHdI6HWL-uxK-%2FviR2shpzWbePBZky-St-Remy-Video-StREMY_Side_Car_Master_ENG_1080p-OZ-2.mp4",
+                    "thumbnail": "https://images.articulate.com/f:jpg,b:fff,w:100,h:100,s:cover/rise/courses/eNKXikLLdWhwRSOse9sBHdI6HWL-uxK-/transcoded-viR2shpzWbePBZky-St-Remy-Video-StREMY_Side_Car_Master_ENG_1080p-OZ-2-00001.png",
+                    "originalUrl": "St-Remy-Video-StREMY_Side_Car_Master_ENG_1080p-OZ-2.mp4",
+                    "transcodeId": "1598647207495-alahkv",
+                    "existingMediaType": "image",
+                    "hasRemovableMedia": true
+                  }
+                },
+                "title": "圣雷米边车",
+                "description": "<p>1.25 盎司圣雷米 X.O<br>0.5 盎司君度<br>0.5 盎司新鲜柠檬汁<br>橙皮</p><p>将圣雷米 X.O、君度和柠檬汁倒入调酒器。摇晃 8 秒，然后过滤至冰镇过的马天尼杯。揉拧橙皮并撒在酒杯上即可享用。</p>",
+                "isNewlyInserted": true
+              }
+            ],
+            "family": "interactive",
+            "variant": "tabs",
+            "settings": {
+              "paddingTop": 3,
+              "zoomOnClick": true,
+              "paddingBottom": 3,
+              "backgroundColor": "",
+              "entranceAnimation": true
+            }
+          },
+          {
+            "id": "ckeimajel003n3667xiv1zzr4",
+            "type": "image",
+            "items": [
+              {
+                "id": "ckeim9o3v003f36674tzf74oa",
+                "media": {
+                  "image": {
+                    "key": "rise/courses/eNKXikLLdWhwRSOse9sBHdI6HWL-uxK-/ePFp9IspzE5hZq4_-Global%2520Brand%2520Center.JPG",
+                    "type": "image",
+                    "crushedKey": "ILHTB1WqBg70n0Im_b1yCrkS6RHA7ZMn4.jpg",
+                    "originalUrl": "Global Brand Center.JPG",
+                    "useCrushedKey": true
+                  }
+                },
+                "caption": "",
+                "paragraph": "<p><strong>全球品牌中心</strong></p><p>您可以在全球品牌中心找到以上所有鸡尾酒视频、品牌图像和其他信息。</p>"
+              }
+            ],
+            "media": {},
+            "family": "image",
+            "variant": "text aside",
+            "settings": {
+              "opacity": 0.5,
+              "paddingTop": 3,
+              "zoomOnClick": true,
+              "opacityColor": "#000000",
+              "paddingBottom": 3,
+              "backgroundColor": "",
+              "entranceAnimation": true
+            }
+          },
+          {
+            "id": "ckdhs8crl00663667dbs57qn8",
+            "type": "text",
+            "items": [
+              {
+                "id": "ckdho5f0x00243667iha7pppy",
+                "heading": "<p><strong>圣雷米是全球排名第一的法国白兰地</strong></p>",
+                "paragraph": "<p>圣雷米是全球最受欢迎的法国白兰地（2019 年 IWSR 数据），自 1886 年以来，一直备受鉴赏家和品评家的青睐。 </p><p>跨越 130 年的品牌历史，该配方继续代代相传：这一严格保守的秘密仅为我们的专属调酒大师所知。</p>"
+              }
+            ],
+            "family": "text",
+            "variant": "heading paragraph",
+            "settings": {
+              "paddingTop": 3,
+              "paddingBottom": 3,
+              "backgroundColor": "",
+              "entranceAnimation": true
+            }
+          },
+          {
+            "id": "ckikutxkc0045356c5ag1psxv",
+            "type": "text",
+            "items": [
+              {
+                "id": "ckikt6qcp0024356cqbcsulbx",
+                "heading": "<p><strong>以下是圣雷米 X.O 多年来所获奖项的列表 &nbsp;</strong></p>"
+              }
+            ],
+            "family": "text",
+            "variant": "subheading",
+            "settings": {
+              "paddingTop": 3,
+              "paddingBottom": 0,
+              "backgroundColor": "",
+              "entranceAnimation": true
+            }
+          },
+          {
+            "id": "ckdhs9q7i00673667f7f75pvt",
+            "type": "image",
+            "items": [
+              {
+                "id": "ckdho5f0x002g36671ypaqfnc",
+                "media": {
+                  "image": {
+                    "key": "rise/courses/eNKXikLLdWhwRSOse9sBHdI6HWL-uxK-/owLOpOmHY4YgdeFS-XO%2520Medals.jpg",
+                    "type": "image",
+                    "crushedKey": "FM4-QXLeZTYGbCOe_z6E6Ykqbv7EYcWH1.jpg",
+                    "originalUrl": "XO Medals.jpg",
+                    "useCrushedKey": true
+                  }
+                },
+                "caption": "",
+                "paragraph": ""
+              }
+            ],
+            "family": "image",
+            "variant": "hero",
+            "settings": {
+              "opacity": 0.2,
+              "paddingTop": "0",
+              "zoomOnClick": true,
+              "opacityColor": "#000000",
+              "paddingBottom": "0",
+              "backgroundColor": "",
+              "entranceAnimation": true
+            }
+          },
+          {
+            "id": "ckdhsa6kv00693667kkl0s4wd",
+            "type": "divider",
+            "items": [
+              {
+                "id": "ckdho5f0x001036671bwtiavx",
+                "type": "",
+                "title": "CONTINUE",
+                "buttonColor": "brand",
+                "completeHint": "Complete the content above before moving on."
+              }
+            ],
+            "family": "continue",
+            "variant": "continue",
+            "settings": {
+              "paddingTop": 3,
+              "paddingBottom": 3,
+              "backgroundColor": "",
+              "entranceAnimation": true
+            }
+          },
+          {
+            "id": "ckdhsa8pb006a3667cct3x1um",
+            "type": "text",
+            "items": [
+              {
+                "id": "ckdho5f0x00243667iha7pppy",
+                "heading": "<p><strong>桶酿系列</strong></p>",
+                "paragraph": "<p>圣雷米桶酿系列体现了塞西尔·鲁多在专业技能上的最高水平，包括挑选酒桶和使用各式各样的木材熟成圣雷米白兰地。</p><p>每款佳酿都是独一无二的探索之旅，是我们的法国葡萄白兰地和木材之间的独特邂逅，造就别具一格的品鉴体验。每款佳酿都堪称珍品，装瓶数量非常有限。</p><p><br></p>"
+              }
+            ],
+            "family": "text",
+            "variant": "heading paragraph",
+            "settings": {
+              "paddingTop": 3,
+              "paddingBottom": 3,
+              "backgroundColor": "",
+              "entranceAnimation": true
+            }
+          },
+          {
+            "id": "ckdhscd19006b3667i1z3q18k",
+            "type": "image",
+            "items": [
+              {
+                "id": "ckdho5f0x002g36671ypaqfnc",
+                "media": {
+                  "image": {
+                    "key": "rise/courses/eNKXikLLdWhwRSOse9sBHdI6HWL-uxK-/aWHV_paTzUt5YDIm-Full%2520cask%2520range.png",
+                    "type": "image",
+                    "crushedKey": "nf36mUs3qDlm3fk__lpsoOjwm8_Wxn_9l.png",
+                    "originalUrl": "Full cask range.png",
+                    "useCrushedKey": true
+                  }
+                },
+                "caption": "",
+                "paragraph": ""
+              }
+            ],
+            "media": {},
+            "family": "image",
+            "variant": "hero",
+            "settings": {
+              "opacity": 0.2,
+              "paddingTop": 3,
+              "zoomOnClick": true,
+              "opacityColor": "#000000",
+              "paddingBottom": 3,
+              "backgroundColor": "",
+              "entranceAnimation": true
+            }
+          },
+          {
+            "id": "ckdhsda9h006d3667199sehki",
+            "type": "text",
+            "items": [
+              {
+                "id": "ckdho5f0x00243667iha7pppy",
+                "heading": "<p><strong>2020 年推出：欧罗索雪莉桶白兰地</strong></p>",
+                "paragraph": "<p>为打造第五款佳酿，塞西尔·鲁多秉承对完美酒桶的追求，使用十个曾陈酿赫雷斯-德拉弗龙特拉（Jerez de la Frontera）出产的欧罗索雪莉酒的酒桶熟成圣雷米。</p><p>结果超乎预期，白兰地散发出红色水果、新鲜黄油、姜和甘草的气息。</p><p>点击以下图片，了解西班牙产区：</p>"
+              }
+            ],
+            "family": "text",
+            "variant": "heading paragraph",
+            "settings": {
+              "paddingTop": 3,
+              "paddingBottom": 3,
+              "backgroundColor": "",
+              "entranceAnimation": true
+            }
+          },
+          {
+            "id": "ckdhsgspo006e3667asouwvur",
+            "type": "image",
+            "items": [
+              {
+                "id": "ckdho5f0x002g36671ypaqfnc",
+                "media": {
+                  "image": {
+                    "key": "rise/courses/eNKXikLLdWhwRSOse9sBHdI6HWL-uxK-/YFUcEPmHsFb11YcZ-Oloroso%25203.png",
+                    "type": "image",
+                    "crushedKey": "T5Im6niXE6yu75X0_wkoI3vNdtXoXtaXG.jpg",
+                    "originalUrl": "Oloroso 3.png",
+                    "useCrushedKey": true
+                  }
+                },
+                "caption": "",
+                "paragraph": ""
+              },
+              {
+                "id": "ckdhsh8g0006i3667j6hek4zh",
+                "media": {
+                  "image": {
+                    "key": "rise/courses/eNKXikLLdWhwRSOse9sBHdI6HWL-uxK-/bKCnoUIz3mAIdGQz-Oloroso%25202.png",
+                    "type": "image",
+                    "crushedKey": "U-yC0MjuVj1zZhPa_mWCT3SQsKkmqA7N9.jpg",
+                    "originalUrl": "Oloroso 2.png",
+                    "useCrushedKey": true
+                  }
+                },
+                "caption": ""
+              },
+              {
+                "id": "ckdhshgka006m3667y74axm2k",
+                "media": {
+                  "image": {
+                    "key": "rise/courses/eNKXikLLdWhwRSOse9sBHdI6HWL-uxK-/W-McUTonWCxrhAO5-Oloroso%25201.png",
+                    "type": "image",
+                    "crushedKey": "SyA4GLCiHCNOiRQ5_089CbY4iX2YEVEJ-.jpg",
+                    "originalUrl": "Oloroso 1.png",
+                    "useCrushedKey": true
+                  }
+                },
+                "caption": ""
+              },
+              {
+                "id": "ckeen0nxv003a3667xbmydxju",
+                "media": {
+                  "image": {
+                    "key": "rise/courses/eNKXikLLdWhwRSOse9sBHdI6HWL-uxK-/iIyKKeZDtzA8dpkG-Paysage.jpg",
+                    "type": "image",
+                    "crushedKey": "lVftL91LySIfqKFF_N-UwKsWDN3TtMxkW.jpg",
+                    "originalUrl": "Paysage.jpg",
+                    "useCrushedKey": true
+                  }
+                },
+                "caption": "",
+                "isNewlyInserted": true
+              }
+            ],
+            "media": {},
+            "family": "gallery",
+            "variant": "centered",
+            "settings": {
+              "opacity": 0.2,
+              "paddingTop": 3,
+              "zoomOnClick": true,
+              "opacityColor": "#000000",
+              "paddingBottom": 3,
+              "backgroundColor": "",
+              "entranceAnimation": true
+            }
+          },
+          {
+            "id": "ckdhsis5m006t36678ccfl9rv",
+            "type": "image",
+            "items": [
+              {
+                "id": "ckdho5f0x002g36671ypaqfnc",
+                "media": {
+                  "image": {
+                    "key": "rise/courses/eNKXikLLdWhwRSOse9sBHdI6HWL-uxK-/XM_skQ6zxQphmzI9-Oloroso%2520Bottle.png",
+                    "type": "image",
+                    "crushedKey": "4GjR_S5XX1FVDVOu_2-0sSH3h9vixzZST.png",
+                    "originalUrl": "Oloroso Bottle.png",
+                    "useCrushedKey": true
+                  }
+                },
+                "caption": "",
+                "paragraph": "<p>“欧罗索雪莉桶酿制”是指熟成这款佳酿的橡木桶曾用于陈酿欧罗索雪莉酒，后者是一种来自西班牙赫雷斯地区的加强型葡萄酒。</p><p>欧罗索雪莉桶赋予这款佳酿红色水果、樱桃、无花果、枣、柑橘、葡萄干和煮熟的糖渍水果气息。</p><p>橡木酒桶功不可没，它激发出丁香和干果的辛香。</p><p>塞西尔·鲁多说：“白兰地和雪莉桶之间的相互作用就像极富表现力的探戈舞。</p><p>欧罗索雪莉桶赋予圣雷米白兰地红色水果、无花果、枣和煮熟的糖渍水果的馥郁香气。”</p>"
+              }
+            ],
+            "media": {},
+            "family": "image",
+            "variant": "text aside",
+            "settings": {
+              "opacity": 0.2,
+              "paddingTop": 3,
+              "zoomOnClick": true,
+              "opacityColor": "#000000",
+              "imagePosition": "right",
+              "paddingBottom": 3,
+              "backgroundColor": "",
+              "entranceAnimation": true
+            }
+          },
+          {
+            "id": "ckdhskhjf006w3667rmot07kj",
+            "type": "image",
+            "items": [
+              {
+                "id": "ckdho5f0x002g36671ypaqfnc",
+                "media": {
+                  "image": {
+                    "key": "rise/courses/eNKXikLLdWhwRSOse9sBHdI6HWL-uxK-/7Iu7fAXL7GdgGFpw-Oloroso%2520Lifestyle.png",
+                    "type": "image",
+                    "crushedKey": "3G0eHWPci15O4luu_ebknpS1pWsKY71T5.jpg",
+                    "originalUrl": "Oloroso Lifestyle.png",
+                    "useCrushedKey": true
+                  }
+                },
+                "caption": "",
+                "paragraph": "<p>外观：暗金色夹杂着琥珀色。</p><p>香气：红色水果、煮熟的糖渍水果气息，略带一丝饼干的香气。</p><p>口感：圆润甜美，散发出糖渍干果、饼干、枣、巧克力和无花果的味道。</p>"
+              }
+            ],
+            "media": {},
+            "family": "image",
+            "variant": "text aside",
+            "settings": {
+              "opacity": 0.2,
+              "paddingTop": 3,
+              "zoomOnClick": true,
+              "opacityColor": "#000000",
+              "paddingBottom": 3,
+              "backgroundColor": "",
+              "entranceAnimation": true
+            }
+          },
+          {
+            "id": "ckdhsnqqk00713667eam51q8i",
+            "type": "text",
+            "items": [
+              {
+                "id": "ckdho5f0x00243667iha7pppy",
+                "heading": "<p><strong>圣雷米产品系列总结</strong></p>",
+                "paragraph": "<p>回顾本章节的要点。</p>"
+              }
+            ],
+            "family": "text",
+            "variant": "heading paragraph",
+            "settings": {
+              "paddingTop": 3,
+              "paddingBottom": 3,
+              "backgroundColor": "",
+              "entranceAnimation": true
+            }
+          },
+          {
+            "id": "ckdhso7540072366723w68o4v",
+            "type": "list",
+            "items": [
+              {
+                "id": "ckdho5f0x002d36677di7axru",
+                "paragraph": "<p>圣雷米非常百搭，有多种饮用方式</p>"
+              },
+              {
+                "id": "ckdho5f0x002e3667va059erf",
+                "paragraph": "<p><span style=\"font-family: merriweather, serif; font-size: 1.7rem; font-weight: 400; background-color: initial;\">圣雷米 V.S.O.P 和 X.O 是屡获殊荣的白兰地</span></p>"
+              },
+              {
+                "id": "ckdho5f0x002f3667nziqfekj",
+                "paragraph": "<p>2020 年桶酿系列采用欧罗索雪莉桶酿制，散发出红色水果、新鲜黄油、姜和甘草的气息</p>"
+              }
+            ],
+            "media": {},
+            "family": "list",
+            "variant": "checkboxes",
+            "settings": {
+              "paddingTop": 3,
+              "paddingBottom": 3,
+              "backgroundColor": "",
+              "entranceAnimation": true
+            }
+          }
+        ],
+        "media": {},
+        "piles": [],
+        "settings": {},
+        "duplicatedFromId": "",
+        "deleted": false,
+        "createdAt": "2020-08-04T17:49:24.872Z",
+        "updatedAt": "2020-12-11T22:41:18.784Z",
+        "lastUpdatedBy": "auth0|5b3a656445d8a648a1510a8b",
+        "ready": true,
+        "position": null,
+        "transferredAt": null,
+        "duration": 15,
+        "isPartnerContentAuthor": null,
+        "headerImage": {}
+      },
+      {
+        "id": "1y0V5CePYmk6bnleePVfcnNvyJ8hwUtw",
+        "originalId": null,
+        "author": "auth0|5b3a656445d8a648a1510a8b",
+        "selectedAuthorId": "auth0|5b3a656445d8a648a1510a8b",
+        "courseId": "eNKXikLLdWhwRSOse9sBHdI6HWL-uxK-",
+        "title": "品牌策略",
+        "description": "",
+        "type": "blocks",
+        "icon": "Article",
+        "items": [
+          {
+            "id": "ckdhsub1d00763667zxzgkp0k",
+            "type": "image",
+            "items": [
+              {
+                "id": "ckdho5f0x002g36671ypaqfnc",
+                "media": {
+                  "image": {
+                    "key": "rise/courses/eNKXikLLdWhwRSOse9sBHdI6HWL-uxK-/kkFhekzronoUBp10-Target%2520clientele.png",
+                    "type": "image",
+                    "crushedKey": "wcy_ICblPdiNNNWy_28zdP9LItpuPPrUg.jpg",
+                    "originalUrl": "Target clientele.png",
+                    "useCrushedKey": true
+                  }
+                },
+                "caption": "",
+                "paragraph": ""
+              }
+            ],
+            "family": "image",
+            "variant": "hero",
+            "settings": {
+              "opacity": 0.2,
+              "paddingTop": 3,
+              "zoomOnClick": true,
+              "opacityColor": "#000000",
+              "paddingBottom": 3,
+              "backgroundColor": "",
+              "entranceAnimation": true
+            }
+          },
+          {
+            "id": "ckdhsv6wq00783667yuxgw1ip",
+            "type": "text",
+            "items": [
+              {
+                "id": "ckdho5f0x00243667iha7pppy",
+                "heading": "<p><strong>圣雷米目标客户</strong></p>",
+                "paragraph": "<p>30 至 45 岁的男性（及女性），家庭收入中等。以家人和好友为重；思想开明、有好奇心</p>"
+              }
+            ],
+            "family": "text",
+            "variant": "heading paragraph",
+            "settings": {
+              "paddingTop": 3,
+              "paddingBottom": 3,
+              "backgroundColor": "",
+              "entranceAnimation": true
+            }
+          },
+          {
+            "id": "ckdhsw1fn00793667evg431oe",
+            "type": "list",
+            "items": [
+              {
+                "id": "ckdho5f0x002d36677di7axru",
+                "paragraph": "<p><span style=\"font-family: merriweather, serif; font-size: 1.7rem; font-weight: 400; background-color: initial;\">追求最佳性价比</span></p>"
+              },
+              {
+                "id": "ckdho5f0x002e3667va059erf",
+                "paragraph": "<p>欣赏真诚和诚信</p>"
+              },
+              {
+                "id": "ckdho5f0x002f3667nziqfekj",
+                "paragraph": "<p>重视拥有地道根源的传统和品牌</p>"
+              },
+              {
+                "id": "ckdhsx7ro007a3667fx1015h7",
+                "paragraph": "<p>为家人能过上他们多年来试图建立起来的美好生活而感到满足</p>",
+                "isNewlyInserted": false
+              },
+              {
+                "id": "ckdhsxgpp007b3667bhxp6mja",
+                "paragraph": "<p>通过为自己和所关心的人营造舒适体验而寻求感激之情、简单的满足感、低调的精致和内心的安宁</p>",
+                "isNewlyInserted": false
+              },
+              {
+                "id": "ckdhsy1yw007c3667lnnbjrwc",
+                "paragraph": "<p>对自己的选择充满信心，不指望证明任何事情</p>",
+                "isNewlyInserted": false
+              }
+            ],
+            "media": {},
+            "family": "list",
+            "variant": "bulleted",
+            "settings": {
+              "paddingTop": 3,
+              "paddingBottom": 3,
+              "backgroundColor": "",
+              "entranceAnimation": true
+            }
+          },
+          {
+            "id": "ckdht29al007d3667venim2ov",
+            "type": "text",
+            "items": [
+              {
+                "id": "ckdho5f0x00243667iha7pppy",
+                "heading": "<strong>Heading</strong>",
+                "paragraph": "<p><strong>点击图片，进一步了解圣雷米的品牌定位： </strong></p>"
+              }
+            ],
+            "media": {},
+            "family": "text",
+            "variant": "paragraph",
+            "settings": {
+              "paddingTop": 3,
+              "paddingBottom": 3,
+              "backgroundColor": "",
+              "entranceAnimation": true
+            }
+          },
+          {
+            "id": "ckdht2xwj007e3667eszd7v1c",
+            "type": "image",
+            "items": [
+              {
+                "id": "ckdho5f0x002g36671ypaqfnc",
+                "media": {
+                  "image": {
+                    "key": "rise/courses/eNKXikLLdWhwRSOse9sBHdI6HWL-uxK-/1WfhDQnP6dPZb-lR-Vision%25201.png",
+                    "type": "image",
+                    "crushedKey": "6dm9FnvK-wZEzJN__4f2PpxeBsLx3Fv4_.jpg",
+                    "originalUrl": "Vision 1.png",
+                    "useCrushedKey": true
+                  }
+                },
+                "caption": "<p>St-R&eacute;my Vision</p>",
+                "paragraph": ""
+              },
+              {
+                "id": "ckdht3c7m007i3667aqr3c5lh",
+                "media": {
+                  "image": {
+                    "key": "rise/courses/eNKXikLLdWhwRSOse9sBHdI6HWL-uxK-/Oe5U0dfAJm0ltkAo-Mission.png",
+                    "type": "image",
+                    "crushedKey": "Munv68jJ1C1vcEjj_WJ5_7wFxakvzTUMF.jpg",
+                    "originalUrl": "Mission.png",
+                    "useCrushedKey": true
+                  }
+                },
+                "caption": "<p>St-R&eacute;my Mission</p>"
+              },
+              {
+                "id": "ckdht3hdz007m3667e76ddeuj",
+                "media": {
+                  "image": {
+                    "key": "rise/courses/eNKXikLLdWhwRSOse9sBHdI6HWL-uxK-/KDsYxWFaa8CY-uoY-Promise.png",
+                    "type": "image",
+                    "crushedKey": "i-urzDGkp4YELzMe_ZCiefr3Y7ZpLP7IB.jpg",
+                    "originalUrl": "Promise.png",
+                    "useCrushedKey": true
+                  }
+                },
+                "caption": "<p>St-R&eacute;my Promise</p>"
+              },
+              {
+                "id": "ckdht3n5t007q3667fdoch860",
+                "media": {
+                  "image": {
+                    "key": "rise/courses/eNKXikLLdWhwRSOse9sBHdI6HWL-uxK-/us2SBXlyMto95rLP-ST-REMY-XO-PARIS.jpg",
+                    "type": "image",
+                    "crushedKey": "TbK8Zlvgu3Bfu3Io_eiw3yViOU5yznMBC.jpg",
+                    "originalUrl": "ST-REMY-XO-PARIS.jpg",
+                    "useCrushedKey": true
+                  }
+                },
+                "caption": "<p>St-R&eacute;my Big Idea</p>",
+                "isNewlyInserted": true
+              }
+            ],
+            "media": {},
+            "family": "gallery",
+            "variant": "centered",
+            "settings": {
+              "opacity": 0.2,
+              "paddingTop": 3,
+              "zoomOnClick": true,
+              "opacityColor": "#000000",
+              "paddingBottom": 3,
+              "backgroundColor": "",
+              "entranceAnimation": true
+            }
+          },
+          {
+            "id": "cke4es9gm003o36666brnjd4v",
+            "type": "text",
+            "items": [
+              {
+                "id": "cke4d9ezl00273666k8kw1fnd",
+                "heading": "<p><strong>圣雷米品牌视频</strong></p>"
+              }
+            ],
+            "media": {},
+            "family": "text",
+            "variant": "heading",
+            "settings": {
+              "paddingTop": 3,
+              "paddingBottom": 0,
+              "backgroundColor": "",
+              "entranceAnimation": true
+            }
+          },
+          {
+            "id": "cke35p9t40031366739fubwpg",
+            "type": "multimedia",
+            "items": [
+              {
+                "id": "cke353jn5000t3667964k9umo",
+                "media": {
+                  "video": {
+                    "key": "3QHRhPFWxPE2S3-9_transcoded-ufLjmO5Ue0McxWwx-SOCIAL%2015s%2016-9%20EN.mp4",
+                    "url": "transcoded-ufLjmO5Ue0McxWwx-SOCIAL%252015s%252016-9%2520EN.mp4",
+                    "type": "video",
+                    "poster": "qJi_AYL_L3f6AnWT_transcoded-ufLjmO5Ue0McxWwx-SOCIAL%2015s%2016-9%20EN-00001.png",
+                    "duration": 16,
+                    "inputKey": "rise%2Fcourses%2FeNKXikLLdWhwRSOse9sBHdI6HWL-uxK-%2FufLjmO5Ue0McxWwx-SOCIAL%252015s%252016-9%2520EN.mp4",
+                    "thumbnail": "https://images.articulate.com/f:jpg,b:fff,w:100,h:100,s:cover/rise/courses/eNKXikLLdWhwRSOse9sBHdI6HWL-uxK-/transcoded-ufLjmO5Ue0McxWwx-SOCIAL%252015s%252016-9%2520EN-00001.png",
+                    "originalUrl": "SOCIAL 15s 16-9 EN.mp4",
+                    "transcodeId": "1597949237242-hny7id"
+                  }
+                },
+                "caption": ""
+              }
+            ],
+            "family": "multimedia",
+            "variant": "video",
+            "settings": {
+              "paddingTop": 3,
+              "paddingBottom": 3,
+              "backgroundColor": "",
+              "entranceAnimation": true
+            }
+          },
+          {
+            "id": "ckdht8wfa007v3667k76i2rrv",
+            "type": "text",
+            "items": [
+              {
+                "id": "ckdho5f0x002636673uxeh0cj",
+                "heading": "<p><strong>圣雷米品牌平台</strong></p>"
+              }
+            ],
+            "family": "text",
+            "variant": "heading",
+            "settings": {
+              "paddingTop": 3,
+              "paddingBottom": 0,
+              "backgroundColor": "",
+              "entranceAnimation": true
+            }
+          },
+          {
+            "id": "ckdht85hf007t3667d7sxrmqe",
+            "type": "image",
+            "items": [
+              {
+                "id": "ckdho5f0x002g36671ypaqfnc",
+                "media": {
+                  "image": {
+                    "key": "rise/courses/eNKXikLLdWhwRSOse9sBHdI6HWL-uxK-/1VIMVRv68DsLpCz3-Brand%2520Platform.png",
+                    "type": "image",
+                    "crushedKey": "ypC2_xIM5OxOzmBT_-V7ZOeTA_26X_aak.jpg",
+                    "originalUrl": "Brand Platform.png",
+                    "useCrushedKey": true
+                  }
+                },
+                "caption": "",
+                "paragraph": ""
+              }
+            ],
+            "family": "image",
+            "variant": "hero",
+            "settings": {
+              "opacity": 0.2,
+              "paddingTop": 3,
+              "zoomOnClick": true,
+              "opacityColor": "#000000",
+              "paddingBottom": 3,
+              "backgroundColor": "",
+              "entranceAnimation": true
+            }
+          },
+          {
+            "id": "ckdht9qlu007w3667tj86alw1",
+            "type": "text",
+            "items": [
+              {
+                "id": "ckdho5f0x00243667iha7pppy",
+                "heading": "<p><strong>圣雷米品牌目标</strong></p>",
+                "paragraph": "<p>在全球范围内成为白兰地的黄金标准。</p>"
+              }
+            ],
+            "family": "text",
+            "variant": "heading paragraph",
+            "settings": {
+              "paddingTop": 3,
+              "paddingBottom": 3,
+              "backgroundColor": "",
+              "entranceAnimation": true
+            }
+          },
+          {
+            "id": "ckdhtawte007x36674j0rh3s6",
+            "type": "image",
+            "items": [
+              {
+                "id": "ckdho5f0x002g36671ypaqfnc",
+                "media": {
+                  "image": {
+                    "key": "rise/courses/eNKXikLLdWhwRSOse9sBHdI6HWL-uxK-/KNBQR-iB-0UQVKLt-Pillars.png",
+                    "type": "image",
+                    "crushedKey": "t8yHlneAjH246xlC_6yTd4tNnDsKJtHKb.png",
+                    "originalUrl": "Pillars.png",
+                    "useCrushedKey": true
+                  }
+                },
+                "caption": "",
+                "paragraph": ""
+              }
+            ],
+            "family": "image",
+            "variant": "hero",
+            "settings": {
+              "opacity": 0.2,
+              "paddingTop": 3,
+              "zoomOnClick": true,
+              "opacityColor": "#000000",
+              "paddingBottom": 3,
+              "backgroundColor": "",
+              "entranceAnimation": true
+            }
+          }
+        ],
+        "media": {},
+        "piles": [],
+        "settings": {},
+        "duplicatedFromId": "",
+        "deleted": false,
+        "createdAt": "2020-08-04T17:49:33.374Z",
+        "updatedAt": "2020-08-24T17:48:52.834Z",
+        "lastUpdatedBy": "auth0|5b3a656445d8a648a1510a8b",
+        "ready": true,
+        "position": null,
+        "transferredAt": null,
+        "duration": 2,
+        "isPartnerContentAuthor": null,
+        "headerImage": {}
+      },
+      {
+        "id": "xQGTQg94TjJcpI2gjpLgJo8XEwrBmL6V",
+        "originalId": null,
+        "author": "auth0|5b3a656445d8a648a1510a8b",
+        "selectedAuthorId": "auth0|5b3a656445d8a648a1510a8b",
+        "courseId": "eNKXikLLdWhwRSOse9sBHdI6HWL-uxK-",
+        "title": "知识测验",
+        "description": "<p>完成知识测验以顺利结束课程。您的得分必须达到 80% 或以上才能通过测验。</p>",
+        "type": "quiz",
+        "icon": "Quiz",
+        "items": [
+          {
+            "id": "ckdho5f0u00043667yxy256c4",
+            "type": "MULTIPLE_CHOICE",
+            "media": {
+              "image": {
+                "key": "rise/courses/eNKXikLLdWhwRSOse9sBHdI6HWL-uxK-/dPYaKzS6xILyK_Zn-1886.jpg",
+                "type": "image",
+                "crushedKey": "HWJQARoY_Q7QjDrP_6-t0msqRoDT-3JhP.jpg",
+                "originalUrl": "1886.jpg",
+                "useCrushedKey": true
+              }
+            },
+            "title": "<p>圣雷米酿酒厂创立于哪一年？</p>",
+            "answers": [
+              {
+                "id": "ckdhtoc5300803667rtblusis",
+                "isNew": true,
+                "title": "<p>1703 年</p>"
+              },
+              {
+                "id": "ckdho5f0u00063667ymrntpsd",
+                "title": "<p>1724 年</p>",
+                "feedback": ""
+              },
+              {
+                "id": "ckdhto7b3007z3667r5vn9qz6",
+                "isNew": true,
+                "title": "<p>1881 年</p>"
+              },
+              {
+                "id": "ckdho5f0u00053667cojcyblg",
+                "title": "<p>1886 年</p>",
+                "feedback": ""
+              }
+            ],
+            "correct": "ckdho5f0u00053667cojcyblg",
+            "corrects": [
+              "ckdho5f0u00053667cojcyblg"
+            ],
+            "feedback": "<p>1886 年，灾害肆虐雷米·马丁葡萄园，酿酒厂于同年成立。</p>"
+          },
+          {
+            "id": "ckdho5f0u00073667wo15h6w0",
+            "type": "MULTIPLE_CHOICE",
+            "media": {
+              "image": {
+                "key": "rise/courses/eNKXikLLdWhwRSOse9sBHdI6HWL-uxK-/VV4gz-Mw8aLKLSIV-Paul%2520Emile.JPG",
+                "type": "image",
+                "crushedKey": "wXRgFkiuOV5f_59Z_n6HVuO3HtLHJyOD3.jpg",
+                "originalUrl": "Paul Emile.JPG",
+                "useCrushedKey": true
+              }
+            },
+            "title": "<p>谁创立了圣雷米酿酒厂？</p>",
+            "answers": [
+              {
+                "id": "ckdho5f0u000a36672qtrg7a5",
+                "title": "<p>安德烈·雷诺</p>",
+                "feedback": ""
+              },
+              {
+                "id": "ckdho5f0u000836678d6q6t25",
+                "title": "<p>保尔·埃米尔·雷米·马丁二世</p>",
+                "feedback": ""
+              },
+              {
+                "id": "ckdho5f0u000b3667foeqn7y2",
+                "title": "<p>巴蒂斯特·卢瓦索</p>",
+                "feedback": ""
+              },
+              {
+                "id": "ckdho5f0u00093667s56dt51t",
+                "title": "<p>塞西尔·鲁多</p>",
+                "feedback": ""
+              }
+            ],
+            "correct": "ckdho5f0u000836678d6q6t25",
+            "corrects": [
+              "ckdho5f0u000836678d6q6t25",
+              "ckdho5f0u00093667s56dt51t"
+            ],
+            "feedback": "<p>第四代雷米·马丁——保尔·埃米尔·雷米·马丁二世创立了酿酒厂。</p>"
+          },
+          {
+            "id": "ckdhtrydq009f3667jv9mk7pu",
+            "type": "FILL_IN_THE_BLANK",
+            "media": {
+              "image": {
+                "key": "rise/courses/eNKXikLLdWhwRSOse9sBHdI6HWL-uxK-/PIEdmxRkf9eiXO_z-1917.jpg",
+                "type": "image",
+                "crushedKey": "TM_G4RsA6AwTmtMt_HIKFjPkIPTG-pgdQ.jpg",
+                "originalUrl": "1917.jpg",
+                "useCrushedKey": true
+              }
+            },
+            "title": "<p>圣雷米是 100% 的什么？</p>",
+            "answers": [
+              {
+                "id": "ckdhtryds009g3667qfoba3p6",
+                "title": "French"
+              },
+              {
+                "id": "ckkhogxro002w366ci5z1dg0f",
+                "isNew": true,
+                "title": "French brandy"
+              }
+            ],
+            "feedback": "<p>从采摘到蒸馏、熟成再到装瓶，圣雷米 100% 源自法国。</p>"
+          },
+          {
+            "id": "ckdhtt85t009i3667qodhgwlh",
+            "type": "MULTIPLE_RESPONSE",
+            "media": {
+              "image": {
+                "key": "rise/courses/eNKXikLLdWhwRSOse9sBHdI6HWL-uxK-/w_79hXJ5jPuFHvfq-1972.jpg",
+                "type": "image",
+                "crushedKey": "Fn4HefziwjM8qC-E_JKNpVVpNeE9HqY75.jpg",
+                "originalUrl": "1972.jpg",
+                "useCrushedKey": true
+              }
+            },
+            "title": "<p>圣雷米核心系列包含哪些品牌？</p>",
+            "answers": [
+              {
+                "id": "ckdhtt85u009j3667pfsdf8ri",
+                "title": "<p>VSOP</p>",
+                "feedback": ""
+              },
+              {
+                "id": "ckdhttzer00ct36672m1uydsa",
+                "isNew": true,
+                "title": "<p>桶酿系列</p>"
+              },
+              {
+                "id": "ckdhtt85u009k3667q9k0hzt0",
+                "title": "<p>XO</p>",
+                "feedback": ""
+              },
+              {
+                "id": "ckdhtu5ng00dm3667lsc34z3h",
+                "isNew": true,
+                "title": "<p>小批量珍藏白兰地</p>"
+              }
+            ],
+            "correct": "ckdhtt85u009j3667pfsdf8ri",
+            "corrects": [
+              "ckdhtt85u009j3667pfsdf8ri",
+              "ckdhtt85u009k3667q9k0hzt0"
+            ],
+            "feedback": "<p>V.S.O.P 和 X.O 是全面分销的全年供应品牌。</p>"
+          },
+          {
+            "id": "ckdhtudgv00e33667pr2e4do1",
+            "type": "MULTIPLE_CHOICE",
+            "media": {
+              "image": {
+                "key": "rise/courses/eNKXikLLdWhwRSOse9sBHdI6HWL-uxK-/thVSaxuogrH9ki_P-2016.jpg",
+                "type": "image",
+                "crushedKey": "QONnlNIndHPkIIff_XJZhT5aXu6z_GT7E.jpg",
+                "originalUrl": "2016.jpg",
+                "useCrushedKey": true
+              }
+            },
+            "title": "<p>谁是圣雷米的现任调酒大师？</p>",
+            "answers": [
+              {
+                "id": "ckdhtudgw00e53667owacj51z",
+                "title": "<p>玛蒂娜·潘</p>",
+                "feedback": ""
+              },
+              {
+                "id": "ckdhtvu9j00e636674tpwmbwl",
+                "isNew": true,
+                "title": "<p>卡罗尔·金顿</p>"
+              },
+              {
+                "id": "ckdhtudgv00e436678zsctwn1",
+                "title": "<p>塞西尔·鲁多</p>",
+                "feedback": ""
+              },
+              {
+                "id": "ckdhtwe8g00e73667mqlwcf4y",
+                "isNew": true,
+                "title": "<p>贝尔纳黛特·朗格莱</p>"
+              }
+            ],
+            "correct": "ckdhtudgv00e436678zsctwn1",
+            "corrects": [
+              "ckdhtudgv00e436678zsctwn1"
+            ],
+            "feedback": "<p>在玛蒂娜·潘退休后，塞西尔·鲁多于 2016 年 6 月被任命为调酒大师。</p>"
+          },
+          {
+            "id": "ckdhtz9br00e83667thg87gbv",
+            "type": "MULTIPLE_CHOICE",
+            "media": {
+              "image": {
+                "key": "rise/courses/eNKXikLLdWhwRSOse9sBHdI6HWL-uxK-/DeHbS7BTXDLFg9uh-1949.jpg",
+                "type": "image",
+                "crushedKey": "13HRCDRBLv-4Lwvl_L0DSZ6nf4bbH85za.jpg",
+                "originalUrl": "1949.jpg",
+                "useCrushedKey": true
+              }
+            },
+            "title": "<p>1961 年，圣雷米酿酒厂更换为哪一种标志性包装？</p>",
+            "answers": [
+              {
+                "id": "ckdhtz9bs00ea3667kknruouw",
+                "title": "<p>木质瓶塞</p>",
+                "feedback": ""
+              },
+              {
+                "id": "ckdhu03af00eb3667p3cu5pdu",
+                "isNew": true,
+                "title": "<p>柳条织物包裹的酒瓶</p>"
+              },
+              {
+                "id": "ckdhtz9bs00e93667yvdxi48r",
+                "title": "<p>造型独特的酒瓶</p>",
+                "feedback": ""
+              }
+            ],
+            "correct": "ckdhtz9bs00e93667yvdxi48r",
+            "corrects": [
+              "ckdhtz9bs00e93667yvdxi48r"
+            ],
+            "feedback": "<p>黑色酒瓶与圣雷米紧密关联。</p>"
+          },
+          {
+            "id": "ckdhu15a600ec3667drzxvldd",
+            "type": "MULTIPLE_CHOICE",
+            "media": {
+              "image": {
+                "key": "rise/courses/eNKXikLLdWhwRSOse9sBHdI6HWL-uxK-/TF16_Pt-kkFYobml-100%2520French%2520Grapes.png",
+                "type": "image",
+                "crushedKey": "KbU6NTrEF5eBfz_m_LNbgxNjc1MNzTXd0.jpg",
+                "originalUrl": "100 French Grapes.png",
+                "useCrushedKey": true
+              }
+            },
+            "title": "<p>圣雷米使用的葡萄有何特别之处？</p>",
+            "answers": [
+              {
+                "id": "ckdhu15a700ee36676bopn19t",
+                "title": "<p>始终产自法国</p>",
+                "feedback": ""
+              },
+              {
+                "id": "ckdhu2mic00ej36673fkk0u8u",
+                "isNew": true,
+                "title": "<p>同时使用红葡萄和白葡萄</p>"
+              },
+              {
+                "id": "ckdhu2stu00ek3667dopaucx3",
+                "isNew": true,
+                "title": "<p>来自多种风土条件和产区</p>"
+              },
+              {
+                "id": "ckdhu15a700ed3667xqdcteq6",
+                "title": "<p>以上皆是</p>",
+                "feedback": ""
+              }
+            ],
+            "correct": "ckdhu15a700ed3667xqdcteq6",
+            "corrects": [
+              "ckdhu15a700ed3667xqdcteq6"
+            ],
+            "feedback": "<p>虽然圣雷米并非必须使用法国葡萄，但依然有意坚持这一传统。</p>"
+          },
+          {
+            "id": "ckdhu3adl00el3667ccpmes25",
+            "type": "MULTIPLE_CHOICE",
+            "media": {
+              "image": {
+                "key": "rise/courses/eNKXikLLdWhwRSOse9sBHdI6HWL-uxK-/EEeanZ9QFXycvMba-Cecile%2520Roudat3.png",
+                "type": "image",
+                "crushedKey": "ehZ4578LKKsZ-uan_fAqhP12Ac4LBnAtb.jpg",
+                "originalUrl": "Cecile Roudat3.png",
+                "useCrushedKey": true
+              }
+            },
+            "title": "<p>为什么圣雷米从多种风土条件和产区中挑选葡萄？</p>",
+            "answers": [
+              {
+                "id": "ckdhu3adl00en3667wikfa49o",
+                "title": "<p>实惠</p>",
+                "feedback": ""
+              },
+              {
+                "id": "ckdhu3adl00em3667ydndqek5",
+                "title": "<p>获得复杂多样的香气</p>",
+                "feedback": ""
+              },
+              {
+                "id": "cke35tkwt00393667eoythpkl",
+                "isNew": true,
+                "title": "<p>为了获得最好的白葡萄，因为品牌只使用白葡萄</p>"
+              },
+              {
+                "id": "cke35ugnj003a3667vp2qszd0",
+                "isNew": true,
+                "title": "<p>为了免受自然灾害的影响</p>"
+              }
+            ],
+            "correct": "ckdhu3adl00em3667ydndqek5",
+            "corrects": [
+              "ckdhu3adl00em3667ydndqek5"
+            ],
+            "feedback": "<p>用于酿造圣雷米的葡萄始终来自法国葡萄酒产区且经过精心挑选，圣雷米因此带有独特的香气。</p>"
+          },
+          {
+            "id": "ckdhu85lv00gv3667xcmn525r",
+            "type": "MULTIPLE_CHOICE",
+            "media": {
+              "image": {
+                "key": "rise/courses/eNKXikLLdWhwRSOse9sBHdI6HWL-uxK-/_okO6jM_EMAq8NZv-100%2520Distilled.png",
+                "type": "image",
+                "crushedKey": "_MVTJ0qnzpjDaSwF_46BZBRYNIj61sEDj.jpg",
+                "originalUrl": "100 Distilled.png",
+                "useCrushedKey": true
+              }
+            },
+            "title": "<p>圣雷米采用何种蒸馏器进行蒸馏？</p>",
+            "answers": [
+              {
+                "id": "ckdhu85lv00gx3667xdutza9c",
+                "title": "<p>壶式蒸馏器</p>",
+                "feedback": ""
+              },
+              {
+                "id": "ckdhu85lv00gw3667ie8yzpve",
+                "title": "<p>柱式蒸馏器</p>",
+                "feedback": ""
+              },
+              {
+                "id": "ckdhu8pb000gy3667fpcfuapf",
+                "isNew": true,
+                "title": "<p>以上两种均有使用</p>"
+              }
+            ],
+            "correct": "ckdhu85lv00gw3667ie8yzpve",
+            "corrects": [
+              "ckdhu85lv00gw3667ie8yzpve"
+            ],
+            "feedback": "<p>部分生命之水经过二次蒸馏，以确保独特的香气和风味得以保留。</p>"
+          },
+          {
+            "id": "ckdhuaael00gz3667g722hw3b",
+            "type": "MULTIPLE_CHOICE",
+            "media": {
+              "image": {
+                "key": "rise/courses/eNKXikLLdWhwRSOse9sBHdI6HWL-uxK-/aY6efToZ5S6jj_qi-Barrel%2520Wall.png",
+                "type": "image",
+                "crushedKey": "wSng0k-MSBRv0DOC_klEVFhmFUDLQ52Dy.jpg",
+                "originalUrl": "Barrel Wall.png",
+                "useCrushedKey": true
+              }
+            },
+            "title": "<p>用于陈酿圣雷米的酒桶有何特别之处？</p>",
+            "answers": [
+              {
+                "id": "ckdhuaaem00h13667rlfll4a1",
+                "title": "<p>小型酒桶</p>",
+                "feedback": ""
+              },
+              {
+                "id": "ckdhub08l00h23667xvpejlva",
+                "isNew": true,
+                "title": "<p>夏栎橡木</p>"
+              },
+              {
+                "id": "ckdhub5os00h33667oiohnw85",
+                "isNew": true,
+                "title": "<p>经过中度烘烤</p>"
+              },
+              {
+                "id": "ckdhuaaem00h03667z4rx4vy2",
+                "title": "<p>以上皆是</p>",
+                "feedback": ""
+              }
+            ],
+            "correct": "ckdhuaaem00h03667z4rx4vy2",
+            "corrects": [
+              "ckdhuaaem00h03667z4rx4vy2"
+            ],
+            "feedback": "<p>圣雷米使用小型夏栎橡木酒桶，取得了焦糖、香草和烟熏/辛辣气息的完美平衡。</p>"
+          },
+          {
+            "id": "ckdhurvmq00h43667h9n7kieg",
+            "type": "MULTIPLE_CHOICE",
+            "media": {
+              "image": {
+                "key": "rise/courses/eNKXikLLdWhwRSOse9sBHdI6HWL-uxK-/3H3JMa6NuGvEkwmQ-100%2520Matured.png",
+                "type": "image",
+                "crushedKey": "YfOD_d0veg1asL0V_SQMBtFNzGemitXr0.jpg",
+                "originalUrl": "100 Matured.png",
+                "useCrushedKey": true
+              }
+            },
+            "title": "<p>用于陈酿圣雷米的夏栎橡木酒桶有何特别之处？</p>",
+            "answers": [
+              {
+                "id": "ckdhurvmq00h636675lljtqgw",
+                "title": "<p>木材赋予酒液更多甘甜气息且加快熟成</p>",
+                "feedback": ""
+              },
+              {
+                "id": "ckdhutp6g00h73667h8z7nki8",
+                "isNew": true,
+                "title": "<p>法国唯一一种橡木</p>"
+              },
+              {
+                "id": "ckdhuu54u00h836673xojn8e2",
+                "isNew": true,
+                "title": "<p>烘烤时木材不会很快燃烧</p>"
+              },
+              {
+                "id": "ckdhurvmq00h53667r8j674lj",
+                "title": "<p>粗纹理更具熟成潜力</p>",
+                "feedback": ""
+              }
+            ],
+            "correct": "ckdhurvmq00h53667r8j674lj",
+            "corrects": [
+              "ckdhurvmq00h53667r8j674lj"
+            ],
+            "feedback": "<p>夏栎非常适合用于长期熟成。</p>"
+          },
+          {
+            "id": "ckdhuvppq00hc3667l5si3whj",
+            "type": "MULTIPLE_CHOICE",
+            "media": {
+              "image": {
+                "key": "rise/courses/eNKXikLLdWhwRSOse9sBHdI6HWL-uxK-/-xUR7xN3x_Mvu-U5-2017.jpg",
+                "type": "image",
+                "crushedKey": "ZGCxjKZ3Y_bWkPsd_bfJlnPUz9pa4-_pj.jpg",
+                "originalUrl": "2017.jpg",
+                "useCrushedKey": true
+              }
+            },
+            "title": "<p>圣雷米是一种____的法国白兰地。</p>",
+            "answers": [
+              {
+                "id": "ckdhuvpqk00he3667vc818390",
+                "title": "<p>细腻丝滑</p>",
+                "feedback": ""
+              },
+              {
+                "id": "ckdhuwljl00hf3667qo2kvl70",
+                "isNew": true,
+                "title": "<p>便宜</p>"
+              },
+              {
+                "id": "ckdhuvpqk00hd36671n87yrjt",
+                "title": "<p>受欢迎</p>",
+                "feedback": ""
+              },
+              {
+                "id": "ckdhuxa5u00hg3667dmmxiupm",
+                "isNew": true,
+                "title": "<p>最前卫</p>"
+              }
+            ],
+            "correct": "ckdhuvpqk00hd36671n87yrjt",
+            "corrects": [
+              "ckdhuvpqk00hd36671n87yrjt"
+            ],
+            "feedback": "<p>备受青睐，圣雷米被誉为最负盛名的法国白兰地。</p>"
+          }
+        ],
+        "media": {},
+        "piles": [],
+        "settings": {
+          "retryCount": -1,
+          "passingScore": 80,
+          "revealAnswers": true,
+          "passToContinue": true,
+          "shuffleAnswerChoices": false,
+          "randomizeQuestionOrder": true
+        },
+        "duplicatedFromId": "",
+        "deleted": false,
+        "createdAt": "2020-08-04T17:49:40.469Z",
+        "updatedAt": "2021-01-29T02:39:18.471Z",
+        "lastUpdatedBy": "auth0|5b3a656445d8a648a1510a8b",
+        "ready": true,
+        "position": null,
+        "transferredAt": null,
+        "duration": 4,
+        "isPartnerContentAuthor": null,
+        "headerImage": {}
+      },
+      {
+        "id": "MtJpIqeSloUpsSyTrljhAd6a6xlANblk",
+        "originalId": null,
+        "author": "auth0|5b3a656445d8a648a1510a8b",
+        "selectedAuthorId": "auth0|5b3a656445d8a648a1510a8b",
+        "courseId": "eNKXikLLdWhwRSOse9sBHdI6HWL-uxK-",
+        "title": "总结",
+        "description": "",
+        "type": "blocks",
+        "icon": "Article",
+        "items": [
+          {
+            "id": "ckdhv207600hh3667rsr1axzy",
+            "type": "text",
+            "items": [
+              {
+                "id": "ckdho5f0x00243667iha7pppy",
+                "heading": "<p><strong>千万别忘了！</strong></p>",
+                "paragraph": "<p>圣雷米 100% 源自法国！ &nbsp;</p>"
+              }
+            ],
+            "family": "text",
+            "variant": "heading paragraph",
+            "settings": {
+              "paddingTop": 3,
+              "paddingBottom": 3,
+              "backgroundColor": "",
+              "entranceAnimation": true
+            }
+          },
+          {
+            "id": "ckdhv5g5y00hj3667gw8uu66k",
+            "type": "interactive",
+            "items": [
+              {
+                "id": "ckdho5f0x000m36679a98dw50",
+                "back": {
+                  "media": {
+                    "image": {
+                      "key": "assets/rise/assets/block-defaults/mountains.jpg",
+                      "src": "KgcE5g5POqT5UC0c_mountains.jpg",
+                      "type": "image",
+                      "thumbnail": "https://articulateusercontent.com/assets/rise/assets/block-defaults/mountains_thumb.jpg",
+                      "originalUrl": "mountains.jpg"
+                    }
+                  },
+                  "description": "<p>100% 法国葡萄</p>"
+                },
+                "front": {
+                  "type": "fullimage",
+                  "media": {
+                    "image": {
+                      "key": "rise/courses/eNKXikLLdWhwRSOse9sBHdI6HWL-uxK-/bFRdb8srRGiBJ3nB-100%2520French%2520Grapes.png",
+                      "type": "image",
+                      "crushedKey": "C-pm0-PJ3E9DuvYy_gWLvgtLv2tBlfbg7.jpg",
+                      "originalUrl": "100 French Grapes.png",
+                      "useCrushedKey": true
+                    }
+                  },
+                  "description": "Front of card 1"
+                }
+              },
+              {
+                "id": "ckdho5f0x000n3667soyvv6q3",
+                "back": {
+                  "media": {
+                    "image": {
+                      "key": "rise/courses/eNKXikLLdWhwRSOse9sBHdI6HWL-uxK-/kKFgy6kbr_vz_LU3-100%2520Matured.png",
+                      "type": "image",
+                      "crushedKey": "BVl4q_yq6SnSsozv_tPUEF78Flk8naJwW.jpg",
+                      "originalUrl": "100 Matured.png",
+                      "useCrushedKey": true
+                    }
+                  },
+                  "description": "<p>100% Distilled in France</p>"
+                },
+                "front": {
+                  "type": "fullimage",
+                  "media": {
+                    "image": {
+                      "key": "rise/courses/eNKXikLLdWhwRSOse9sBHdI6HWL-uxK-/bbiHpOZVY3kwaMZj-100%2520Distilled.png",
+                      "type": "image",
+                      "crushedKey": "1ZhGBIcOg65ok5x0_N018HdgP2rMtd2Cy.jpg",
+                      "originalUrl": "100 Distilled.png",
+                      "useCrushedKey": true
+                    }
+                  },
+                  "description": "Front of card 2"
+                }
+              },
+              {
+                "id": "ckdho5f0x000o3667h4o4a3f3",
+                "back": {
+                  "media": {
+                    "image": {
+                      "key": "assets/rise/assets/block-defaults/mountains.jpg",
+                      "src": "KgcE5g5POqT5UC0c_mountains.jpg",
+                      "type": "image",
+                      "thumbnail": "https://articulateusercontent.com/assets/rise/assets/block-defaults/mountains_thumb.jpg",
+                      "originalUrl": "mountains.jpg"
+                    }
+                  },
+                  "description": "<p>100% Matured in France</p>"
+                },
+                "front": {
+                  "type": "fullimage",
+                  "media": {
+                    "image": {
+                      "key": "rise/courses/eNKXikLLdWhwRSOse9sBHdI6HWL-uxK-/EvRxcKOqayEZ3UZd-100%2520Matured.png",
+                      "type": "image",
+                      "crushedKey": "oLrszGnEQ97Jk2Co_eeBaAZnxnBReYSc4.jpg",
+                      "originalUrl": "100 Matured.png",
+                      "useCrushedKey": true
+                    }
+                  },
+                  "description": "Front of card 3"
+                }
+              },
+              {
+                "id": "ckdhvfzsm00hr3667n5s64zc2",
+                "back": {
+                  "media": {
+                    "image": {
+                      "key": "assets/rise/assets/block-defaults/mountains.jpg",
+                      "src": "KgcE5g5POqT5UC0c_mountains.jpg",
+                      "type": "image",
+                      "thumbnail": "https://articulateusercontent.com/assets/rise/assets/block-defaults/mountains_thumb.jpg",
+                      "originalUrl": "mountains.jpg"
+                    }
+                  },
+                  "description": "<p>100% Bottled in France</p>"
+                },
+                "front": {
+                  "type": "fullimage",
+                  "media": {
+                    "image": {
+                      "key": "rise/courses/eNKXikLLdWhwRSOse9sBHdI6HWL-uxK-/bkoW71Tm5RSlLK-_-100%2520Bottled.png",
+                      "type": "image",
+                      "crushedKey": "sm18EL6NxYA7VjQO_k9oCJ34SlqhobPvN.jpg",
+                      "originalUrl": "100 Bottled.png",
+                      "useCrushedKey": true
+                    }
+                  },
+                  "description": "Front of card"
+                },
+                "isNewlyInserted": true
+              }
+            ],
+            "family": "flashcard",
+            "variant": "flashcard",
+            "settings": {
+              "paddingTop": 3,
+              "paddingBottom": 3,
+              "backgroundColor": "",
+              "entranceAnimation": true
+            }
+          },
+          {
+            "id": "ckdhvgpsv00hu3667wcz1pwvc",
+            "type": "text",
+            "items": [
+              {
+                "id": "ckdho5f0x00243667iha7pppy",
+                "heading": "<p><strong>了解更多</strong></p>",
+                "paragraph": "<p>访问 <a href=\"https://www.st-remy.com/\" rel=\"noopener noreferrer\" target=\"_blank\">圣雷米网站</a> 了解关于品牌历史、生产工艺、限量版白兰地和鸡尾酒配方的更多信息！ &nbsp;</p><p>尊享有度！</p>"
+              }
+            ],
+            "family": "text",
+            "variant": "heading paragraph",
+            "settings": {
+              "paddingTop": 3,
+              "paddingBottom": 3,
+              "backgroundColor": "",
+              "entranceAnimation": true
+            }
+          }
+        ],
+        "media": {},
+        "piles": [],
+        "settings": {},
+        "duplicatedFromId": "",
+        "deleted": false,
+        "createdAt": "2020-08-04T17:49:42.898Z",
+        "updatedAt": "2020-12-11T22:06:15.487Z",
+        "lastUpdatedBy": "auth0|5b3a656445d8a648a1510a8b",
+        "ready": true,
+        "position": null,
+        "transferredAt": null,
+        "duration": 2,
+        "isPartnerContentAuthor": null,
+        "headerImage": {}
+      }
+    ],
+    "jobs": [],
+    "labelSetId": "",
+    "deleted": false,
+    "createdAt": "2021-07-26T16:24:01.609Z",
+    "updatedAt": "2021-07-26T16:24:03.018Z",
+    "markComplete": false,
+    "isDefault": false,
+    "ready": true,
+    "exportSettings": {},
+    "reviewId": "",
+    "headingTypefaceId": "_vy9IVqRPwz6wQlKi0wsA9dsYpZ7gsQ3",
+    "bodyTypefaceId": "Wstu1lVkR_rUsAuU6x1N_UImwchzygj2",
+    "uiTypefaceId": "_vy9IVqRPwz6wQlKi0wsA9dsYpZ7gsQ3",
+    "sidebarMode": "open",
+    "tenantId": "ea82c8db-2215-4ef5-b89c-0a6bc132e6fb",
+    "showLessonCount": true,
+    "showNavigationButtons": true,
+    "allowSearch": true,
+    "animateBlockEntrance": true,
+    "transferredAt": null,
+    "allowCopy": false,
+    "enableVideoPlaybackSpeed": true,
+    "jobType": null,
+    "partnerContentId": null,
+    "cardImage": null,
+    "theme": null,
+    "lessonHeaderImage": {},
+    "overlayNavigationImage": {},
+    "features": {},
+    "authors": [
+      {
+        "id": "auth0|5b3a656445d8a648a1510a8b",
+        "avatar": "Ux12oqfH7dNHI3Z__small.png",
+        "authorName": "Hugh Lander"
+      }
+    ],
+    "bodyTypeface": "Merriweather",
+    "headingTypeface": "Lato",
+    "uiTypeface": "Lato",
+    "lmsOptions": {
+      "enableExitCourse": false
+    }
+  },
+  "labelSet": {
+    "id": "TTnCuK69AVDu5S5_JZgA4nG3",
+    "author": "auth0|5b3a656445d8a648a1510a8b",
+    "name": "English",
+    "defaultId": 1,
+    "defaultSet": true,
+    "labels": {
+      "quizNext": "下一题",
+      "tabGroup": "Tab",
+      "codeGroup": "Code",
+      "noteGroup": "Note",
+      "quizScore": "您的得分为",
+      "quizStart": "开始测验",
+      "courseExit": "EXIT COURSE",
+      "courseHome": "主页",
+      "lessonName": "课",
+      "quizSubmit": "提交",
+      "quoteGroup": "Quote",
+      "salutation": "👋 Bye!",
+      "buttonGroup": "Button",
+      "courseStart": "开始课程",
+      "embedViewOn": "VIEW ON",
+      "exitMessage": "You may now leave this page.",
+      "quizCorrect": "正确",
+      "quizPassing": "通过率",
+      "quizResults": "测验结果",
+      "courseResume": "RESUME COURSE",
+      "quizLandmark": "Quiz",
+      "quizQuestion": "问题",
+      "courseDetails": "细节",
+      "embedReadMore": "Read more",
+      "feedbackGroup": "Feedback",
+      "quizIncorrect": "错误",
+      "quizTakeAgain": "重新测验",
+      "sortingReplay": "REPLAY",
+      "accordionGroup": "Accordion",
+      "embedLinkGroup": "Embedded web content",
+      "lessonComplete": "COMPLETE",
+      "statementGroup": "Statement",
+      "storylineGroup": "Storyline",
+      "attachmentGroup": "File Attachment",
+      "embedPhotoGroup": "Embedded photo",
+      "embedVideoGroup": "Embedded video",
+      "playButtonLabel": "Play",
+      "processComplete": "Complete",
+      "processLandmark": "Process",
+      "processNextStep": "NEXT STEP",
+      "processStepName": "Step",
+      "seekSliderLabel": "Seek",
+      "sortingLandmark": "Sorting Activity",
+      "audioPlayerGroup": "Audio player. You can use the space bar to toggle playback and arrow keys to scrub.",
+      "buttonStackGroup": "Button stack",
+      "embedPlayerGroup": "Embedded media player",
+      "lessonRestricted": "Lessons must be completed in order",
+      "pauseButtonLabel": "Pause",
+      "textOnImageGroup": "Text on image",
+      "timelineLandmark": "Timeline",
+      "urlEmbedLandmark": "URL/Embed",
+      "videoPlayerGroup": "Video player. You can use the space bar to toggle playback and arrow keys to scrub.",
+      "blocksClickToFlip": "Click to flip",
+      "blocksPreposition": "of",
+      "bulletedListGroup": "Bulleted list",
+      "checkboxListGroup": "Checkbox list",
+      "imageAndTextGroup": "Image and text",
+      "imageGalleryGroup": "Image gallery",
+      "lessonPreposition": "of",
+      "numberedListGroup": "Numbered list",
+      "processLessonName": "Lesson",
+      "processStartAgain": "START AGAIN",
+      "courseSkipToLesson": "SKIP TO LESSON",
+      "flashcardBackLabel": "Flashcard back",
+      "flashcardGridGroup": "Flashcard grid",
+      "nextFlashCardLabel": "Next flashcard",
+      "flashcardFrontLabel": "Flashcard front",
+      "flashcardStackGroup": "Flashcard stack",
+      "knowledgeCheckGroup": "知识测验",
+      "sortingCardsCorrect": "Cards Correct",
+      "hamburgerButtonLabel": "Course Overview Sidebar",
+      "lessonHeaderLandmark": "Lesson Header",
+      "numberedDividerGroup": "Numbered divider",
+      "lessonContentLandmark": "Lesson Content",
+      "lessonSidebarLandmark": "Lesson Sidebar",
+      "quizAnswerPlaceholder": "在此处输入您的答案",
+      "labeledGraphicLandmark": "Labeled Graphic",
+      "previousFlashCardLabel": "Previous flashcard",
+      "processStepPreposition": "of",
+      "overviewPageTitleSuffix": "Overview",
+      "quizAcceptableResponses": "可接受的答案",
+      "quizRequirePassingScore": "Must pass quiz before continuing",
+      "timelineCardGroupPrefix": "Timeline Card",
+      "labeledGraphicBubbleLabel": "Labeled graphic bubble",
+      "labeledGraphicMarkerLabel": "Labeled graphic marker",
+      "labeledGraphicNextMarkerLabel": "Next marker",
+      "labeledGraphicPreviousMarkerLabel": "Previous marker",
+      "quizContinue": "Continue",
+      "processStart": "START",
+      "processSwipe": "Swipe to continue",
+      "search": "search",
+      "result": "result",
+      "results": "results",
+      "noResults": "No results for",
+      "scenarioTryAgain": "TRY AGAIN",
+      "scenarioContinue": "CONTINUE",
+      "scenarioComplete": "Scenario Complete!",
+      "scenarioStartOver": "START OVER"
+    },
+    "deleted": false,
+    "createdAt": "2018-07-02T17:55:17.867Z",
+    "updatedAt": "2018-07-02T17:55:17.867Z",
+    "iso639Code": "en",
+    "transferredAt": null
+  },
+  "fonts": [
+    {
+      "id": "_vy9IVqRPwz6wQlKi0wsA9dsYpZ7gsQ3",
+      "name": "Lato",
+      "default": true,
+      "key": "assets/rise/fonts/Lato-Light.woff",
+      "style": "normal",
+      "weight": "300"
+    },
+    {
+      "id": "_vy9IVqRPwz6wQlKi0wsA9dsYpZ7gsQ3",
+      "name": "Lato",
+      "default": true,
+      "key": "assets/rise/fonts/Lato-Regular.woff",
+      "style": "normal",
+      "weight": "400"
+    },
+    {
+      "id": "_vy9IVqRPwz6wQlKi0wsA9dsYpZ7gsQ3",
+      "name": "Lato",
+      "default": true,
+      "key": "assets/rise/fonts/Lato-Bold.woff",
+      "style": "normal",
+      "weight": "700"
+    },
+    {
+      "id": "_vy9IVqRPwz6wQlKi0wsA9dsYpZ7gsQ3",
+      "name": "Lato",
+      "default": true,
+      "key": "assets/rise/fonts/Lato-Italic.woff",
+      "style": "italic",
+      "weight": "400"
+    },
+    {
+      "id": "_vy9IVqRPwz6wQlKi0wsA9dsYpZ7gsQ3",
+      "name": "Lato",
+      "default": true,
+      "key": "assets/rise/fonts/Lato-Black.woff",
+      "style": "normal",
+      "weight": "900"
+    },
+    {
+      "id": "Wstu1lVkR_rUsAuU6x1N_UImwchzygj2",
+      "name": "Merriweather",
+      "default": true,
+      "key": "assets/rise/fonts/Merriweather-Light.woff",
+      "style": "normal",
+      "weight": "300"
+    },
+    {
+      "id": "Wstu1lVkR_rUsAuU6x1N_UImwchzygj2",
+      "name": "Merriweather",
+      "default": true,
+      "key": "assets/rise/fonts/Merriweather-Regular.woff",
+      "style": "normal",
+      "weight": "400"
+    },
+    {
+      "id": "Wstu1lVkR_rUsAuU6x1N_UImwchzygj2",
+      "name": "Merriweather",
+      "default": true,
+      "key": "assets/rise/fonts/Merriweather-Bold.woff",
+      "style": "normal",
+      "weight": "700"
+    },
+    {
+      "id": "Wstu1lVkR_rUsAuU6x1N_UImwchzygj2",
+      "name": "Merriweather",
+      "default": true,
+      "key": "assets/rise/fonts/Merriweather-Italic.woff",
+      "style": "italic",
+      "weight": "400"
+    },
+    {
+      "id": "Wstu1lVkR_rUsAuU6x1N_UImwchzygj2",
+      "name": "Merriweather",
+      "default": true,
+      "key": "assets/rise/fonts/Merriweather-Black.woff",
+      "style": "normal",
+      "weight": "900"
+    }
+  ],
+  "media": []
+}
